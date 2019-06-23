@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.apache.mahout.clustering.kmeans.TestRandomSeedGenerator
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.62 sec - in org.apache.mahout.clustering.kmeans.TestRandomSeedGenerator

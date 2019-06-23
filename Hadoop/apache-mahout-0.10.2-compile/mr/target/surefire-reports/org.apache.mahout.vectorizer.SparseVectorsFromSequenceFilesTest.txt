@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.apache.mahout.vectorizer.SparseVectorsFromSequenceFilesTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 73.71 sec - in org.apache.mahout.vectorizer.SparseVectorsFromSequenceFilesTest

@@ -1,0 +1,6 @@
+/home/gwl/apache-mahout-distribution-0.10.2/hdfs/src/main/java/org/apache/mahout/common/IOUtils.java
+/home/gwl/apache-mahout-distribution-0.10.2/hdfs/src/main/java/org/apache/mahout/math/Varint.java
+/home/gwl/apache-mahout-distribution-0.10.2/hdfs/src/main/java/org/apache/mahout/math/MatrixWritable.java
+/home/gwl/apache-mahout-distribution-0.10.2/hdfs/src/main/java/org/apache/mahout/math/VectorWritable.java
+/home/gwl/apache-mahout-distribution-0.10.2/hdfs/src/main/java/org/apache/mahout/math/VarIntWritable.java
+/home/gwl/apache-mahout-distribution-0.10.2/hdfs/src/main/java/org/apache/mahout/math/VarLongWritable.java

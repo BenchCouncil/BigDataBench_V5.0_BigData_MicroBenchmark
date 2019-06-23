@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.apache.mahout.math.ssvd.SequentialOutOfCoreSvdTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 49.474 sec - in org.apache.mahout.math.ssvd.SequentialOutOfCoreSvdTest

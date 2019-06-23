@@ -1,0 +1,8 @@
+gen_grep: 
+        If you use not only machine you shuold copy the data to the machines which you use to run.
+
+
+
+run_grep:
+   
+         mpirun -n 2 ./mpi_grep [input_file] [pattern]

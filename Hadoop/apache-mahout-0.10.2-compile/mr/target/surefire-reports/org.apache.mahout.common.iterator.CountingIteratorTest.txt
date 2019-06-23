@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.apache.mahout.common.iterator.CountingIteratorTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.158 sec - in org.apache.mahout.common.iterator.CountingIteratorTest

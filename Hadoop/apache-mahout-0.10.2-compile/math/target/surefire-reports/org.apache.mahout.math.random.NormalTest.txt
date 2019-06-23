@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.apache.mahout.math.random.NormalTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.461 sec - in org.apache.mahout.math.random.NormalTest

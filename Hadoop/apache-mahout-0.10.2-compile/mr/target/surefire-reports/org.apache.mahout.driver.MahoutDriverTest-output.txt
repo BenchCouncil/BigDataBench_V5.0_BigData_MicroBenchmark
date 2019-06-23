@@ -1,0 +1,55 @@
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/home/ubuntu15/.m2/repository/org/slf4j/slf4j-log4j12/1.7.12/slf4j-log4j12-1.7.12.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/home/ubuntu15/.m2/repository/org/slf4j/slf4j-jcl/1.7.12/slf4j-jcl-1.7.12.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.impl.Log4jLoggerFactory]
+log4j:WARN No appenders could be found for logger (org.apache.mahout.driver.MahoutDriver).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+Unexpected help while processing Job-Specific Options:                          
+Usage:                                                                          
+ [--input <input> --output <output> --distanceMeasure <distanceMeasure> --t1    
+<t1> --t2 <t2> --t3 <t3> --t4 <t4> --clusterFilter <clusterFilter> --overwrite  
+--clustering --method <method> --outlierThreshold <outlierThreshold> --help     
+--tempDir <tempDir> --startPhase <startPhase> --endPhase <endPhase>]            
+Job-Specific Options:                                                           
+  --input (-i) input                                         Path to job input  
+                                                             directory.         
+  --output (-o) output                                       The directory      
+                                                             pathname for       
+                                                             output.            
+  --distanceMeasure (-dm) distanceMeasure                    The classname of   
+                                                             the                
+                                                             DistanceMeasure.   
+                                                             Default is         
+                                                             SquaredEuclidean   
+  --t1 (-t1) t1                                              T1 threshold value 
+  --t2 (-t2) t2                                              T2 threshold value 
+  --t3 (-t3) t3                                              T3 (Reducer T1)    
+                                                             threshold value    
+  --t4 (-t4) t4                                              T4 (Reducer T2)    
+                                                             threshold value    
+  --clusterFilter (-cf,-clusterFilter) clusterFilter         Cluster filter     
+                                                             suppresses small   
+                                                             canopies from      
+                                                             mapper             
+  --overwrite (-ow)                                          If present,        
+                                                             overwrite the      
+                                                             output directory   
+                                                             before running job 
+  --clustering (-cl)                                         If present, run    
+                                                             clustering after   
+                                                             the iterations     
+                                                             have taken place   
+  --method (-xm) method                                      The execution      
+                                                             method to use:     
+                                                             sequential or      
+                                                             mapreduce. Default 
+                                                             is mapreduce       
+  --outlierThreshold (-outlierThreshold) outlierThreshold    Outlier threshold  
+                                                             value              
+  --help (-h)                                                Print out help     
+  --tempDir tempDir                                          Intermediate       
+                                                             output directory   
+  --startPhase startPhase                                    First phase to run 
+  --endPhase endPhase                                        Last phase to run  

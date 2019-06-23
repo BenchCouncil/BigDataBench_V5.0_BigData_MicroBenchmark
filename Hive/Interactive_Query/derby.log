@@ -1,0 +1,6 @@
+----------------------------------------------------------------
+2017-10-15 09:05:54.577 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.4.2.0 - (689064): instance a816c00e-015f-1f48-51db-000016fe4808
+on database directory /home/gwl/tpds2017/BigDataBench_V3.1_Hadoop_Hive/Interactive_Query/metastore_db  
+
+Database Class Loader started - derby.database.classpath=''

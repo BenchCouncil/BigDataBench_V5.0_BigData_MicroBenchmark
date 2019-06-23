@@ -1,0 +1,16 @@
+Hash = 9a8e083b28965298
+org.apache.mahout.math.neighborhood.BruteSearch
+0.89 for clustering
+88.9 us per row
+
+625.000000 625.000000 625.000000 625.000000 625.000000 625.000000 625.000000 625.000000 625.000000 625.000000 625.000000 625.000000 625.000000 625.000000 625.000000 625.000000 
+1 runs; kmeans++: 190.111777; random: 3255.219945
+2 runs; kmeans++: 190.134677; random: 3839.815848
+3 runs; kmeans++: 190.128274; random: 4728.548683
+4 runs; kmeans++: 190.117972; random: 5326.923445
+5 runs; kmeans++: 190.125964; random: 4474.400775
+6 runs; kmeans++: 190.126970; random: 4468.631130
+7 runs; kmeans++: 190.121763; random: 3235.508043
+8 runs; kmeans++: 190.116510; random: 4990.734880
+9 runs; kmeans++: 190.134596; random: 4718.751953
+10 runs; kmeans++: 190.120398; random: 3851.210703

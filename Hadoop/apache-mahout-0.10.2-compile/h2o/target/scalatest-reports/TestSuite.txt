@@ -1,0 +1,89 @@
+Discovery starting.
+Discovery completed in 560 milliseconds.
+Run starting. Expected test count is: 71
+DistributedDecompositionsSuite:
+- thin distributed qr (649 milliseconds)
+- dssvd - the naive-est - q=0 (132 milliseconds)
+- ddsvd - naive - q=1 (71 milliseconds)
+- ddsvd - naive - q=2 (67 milliseconds)
+- dspca (3 seconds, 52 milliseconds)
+- dals (2 seconds, 678 milliseconds)
+AtASuite:
+- AtA slim (37 milliseconds)
+ABtSuite:
+- ABt (5 milliseconds)
+RLikeDrmOpsSuite:
+- A.t (2 milliseconds)
+- C = A %*% B (5 milliseconds)
+- C = A %*% B mapBlock {} (24 milliseconds)
+- C = A %*% B incompatible B keys (5 milliseconds)
+- Spark-specific C = At %*% B , join (5 milliseconds)
+- C = At %*% B , join, String-keyed (20 milliseconds)
+- C = At %*% B , zippable, String-keyed (31 milliseconds)
+- C = A %*% B.t (4 milliseconds)
+- C = A %*% inCoreB (4 milliseconds)
+- C = inCoreA %*%: B (6 milliseconds)
+- C = A.t %*% A (4 milliseconds)
+- C = A.t %*% A fat non-graph (44 seconds, 132 milliseconds)
+- C = A.t %*% A non-int key (7 milliseconds)
+- C = A + B (3 milliseconds)
+- C = A + B, identically partitioned (18 milliseconds)
+- C = A + B side test 1 (3 milliseconds)
+- C = A + B side test 2 (4 milliseconds)
+- C = A + B side test 3 (5 milliseconds)
+- Ax (14 milliseconds)
+- A'x (15 milliseconds)
+- colSums, colMeans (4 milliseconds)
+- rowSums, rowMeans (8 milliseconds)
+- A.diagv (12 milliseconds)
+- numNonZeroElementsPerColumn (12 milliseconds)
+- C = A cbind B, cogroup (16 milliseconds)
+- C = A cbind B, zip (3 milliseconds)
+- B = 1 cbind A (5 milliseconds)
+- B = A cbind 1 (3 milliseconds)
+- B = A + 1.0 (3 milliseconds)
+- C = A rbind B (10 milliseconds)
+- C = A rbind B, with empty (5 milliseconds)
+- scalarOps (9 milliseconds)
+- A * A -> sqr(A) rewrite  (8 milliseconds)
+- B = 1 + 2 * (A * A) ew unary function fusion (10 milliseconds)
+DrmLikeOpsSuite:
+- mapBlock (5 milliseconds)
+- allReduceBlock (18 milliseconds)
+- col range (3 milliseconds)
+- row range (154 milliseconds)
+- col, row range (4 milliseconds)
+- dsqDist(X,Y) (533 milliseconds)
+- dsqDist(X) (78 milliseconds)
+AtSuite:
+- At (3 milliseconds)
+ClassifierStatsH2OTestSuite:
+- testFullRunningAverageAndStdDev (21 milliseconds)
+- testBigFullRunningAverageAndStdDev (54 milliseconds)
+- testStddevFullRunningAverageAndStdDev (1 millisecond)
+- testFullRunningAverage (1 millisecond)
+- testFullRunningAveragCopyConstructor (1 millisecond)
+- testInvertedRunningAverage (2 milliseconds)
+- testInvertedRunningAverageAndStdDev (2 milliseconds)
+- testBuild (41 milliseconds)
+- GetMatrix (4 milliseconds)
+- testPrecisionRecallAndF1ScoreAsScikitLearn (14 milliseconds)
+AewBSuite:
+- A * B Hadamard (3 milliseconds)
+- A + B Elementwise (3 milliseconds)
+- A - B Elementwise (3 milliseconds)
+- A / B Elementwise (5 milliseconds)
+NBH2OTestSuite:
+- Simple Standard NB Model (24 milliseconds)
+- NB Aggregator (26 milliseconds)
+- Model DFS Serialization (2 seconds, 147 milliseconds)
+- train and test a model (677 milliseconds)
+- train and test a model with the confusion matrix (1 second, 26 milliseconds)
+DrmLikeSuite:
+- DRM DFS i/o (local) (97 milliseconds)
+- DRM parallelizeEmpty (13 milliseconds)
+Run completed in 3 minutes, 20 seconds.
+Total number of tests run: 71
+Suites: completed 11, aborted 0
+Tests: succeeded 71, failed 0, canceled 0, ignored 0, pending 0
+All tests passed.

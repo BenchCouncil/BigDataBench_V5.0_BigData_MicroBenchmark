@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.mahout.math.TestSparseRowMatrix" time="11.314" tests="63" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="/home/gwl/jdk1.7.0_80/jre/lib/amd64"/>
+    <property name="java.vm.version" value="24.80-b11"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="/home/gwl/apache-mahout-distribution-0.10.2"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=":"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.country" value="HK"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="/home/gwl/apache-mahout-distribution-0.10.2"/>
+    <property name="java.runtime.version" value="1.7.0_80-b15"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="/home/gwl/jdk1.7.0_80/jre/lib/endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="/tmp"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="os.name" value="Linux"/>
+    <property name="classworlds.conf" value="/home/gwl/apache-maven-3.3.9/bin/m2.conf"/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.library.path" value="/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="51.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="3.13.0-24-generic"/>
+    <property name="user.home" value="/home/ubuntu15"/>
+    <property name="user.timezone" value="Asia/Hong_Kong"/>
+    <property name="java.awt.printerjob" value="sun.print.PSPrinterJob"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.specification.version" value="1.7"/>
+    <property name="user.name" value="ubuntu15"/>
+    <property name="java.class.path" value="/home/gwl/apache-maven-3.3.9/boot/plexus-classworlds-2.5.2.jar"/>
+    <property name="java.vm.specification.version" value="1.7"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="/home/gwl/jdk1.7.0_80/jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher install"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.7.0_80"/>
+    <property name="java.ext.dirs" value="/home/gwl/jdk1.7.0_80/jre/lib/ext:/usr/java/packages/lib/ext"/>
+    <property name="securerandom.source" value="file:/dev/./urandom"/>
+    <property name="sun.boot.class.path" value="/home/gwl/jdk1.7.0_80/jre/lib/resources.jar:/home/gwl/jdk1.7.0_80/jre/lib/rt.jar:/home/gwl/jdk1.7.0_80/jre/lib/sunrsasign.jar:/home/gwl/jdk1.7.0_80/jre/lib/jsse.jar:/home/gwl/jdk1.7.0_80/jre/lib/jce.jar:/home/gwl/jdk1.7.0_80/jre/lib/charsets.jar:/home/gwl/jdk1.7.0_80/jre/lib/jfr.jar:/home/gwl/jdk1.7.0_80/jre/classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="/home/gwl/apache-maven-3.3.9"/>
+    <property name="file.separator" value="/"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.cpu.isalist" value=""/>
+  </properties>
+  <testcase name="testTimesMatrix" classname="org.apache.mahout.math.TestSparseRowMatrix" time="0.18"/>
+  <testcase name="testAssignRowCardinality" classname="org.apache.mahout.math.TestSparseRowMatrix" time="0.036"/>
+  <testcase name="testIterate" classname="org.apache.mahout.math.TestSparseRowMatrix" time="0.029"/>
+  <testcase name="testViewRowIndexUnder" classname="org.apache.mahout.math.TestSparseRowMatrix" time="0.028"/>
+  <testcase name="testPlusMatrixCardinality" classname="org.apache.mahout.math.TestSparseRowMatrix" time="0.026"/>
+  <testcase name="testAggregateCols" classname="org.apache.mahout.math.TestSparseRowMatrix" time="0.027"/>
+  <testcase name="testViewPartCardinality" classname="org.apache.mahout.math.TestSparseRowMatrix" time="0.027"/>
+  <testcase name="testAssignColumn" classname="org.apache.mahout.math.TestSparseRowMatrix" time="0.026"/>
+  <testcase name="testMatrixViewBug" classname="org.apache.mahout.math.TestSparseRowMatrix" time="0.027"/>
+  <testcase name="testAssignUnaryFunction" classname="org.apache.mahout.math.TestSparseRowMatrix" time="0.027"/>
+  <testcase name="testPlusMatrix" classname="org.apache.mahout.math.TestSparseRowMatrix" time="0.027"/>
+  <testcase name="testTimesCorrect" classname="org.apache.mahout.math.TestSparseRowMatrix" time="6.69"/>
+  <testcase name="testMinusCardinality" classname="org.apache.mahout.math.TestSparseRowMatrix" time="0.023"/>
+  <testcase name="testSetQuick" classname="org.apache.mahout.math.TestSparseRowMatrix" time="0.023"/>
+  <testcase name="testLike" classname="org.apache.mahout.math.TestSparseRowMatrix" time="0.022"/>
+  <testcase name="testLabelBindingSerialization" classname="org.apache.mahout.math.TestSparseRowMatrix" time="0.061"/>
+  <testcase name="testColumnView" classname="org.apache.mahout.math.TestSparseRowMatrix" time="0.044"/>
+  <testcase name="testTimesOtherSparseEfficiency" classname="org.apache.mahout.math.TestSparseRowMatrix" time="0.732"/>
+  <testcase name="testAssignDoubleArrayArray" classname="org.apache.mahout.math.TestSparseRowMatrix" time="0.016"/>
+  <testcase name="testAssignMatrixBinaryFunction" classname="org.apache.mahout.math.TestSparseRowMatrix" time="0.017"/>
+  <testcase name="testGetIndexUnder" classname="org.apache.mahout.math.TestSparseRowMatrix" time="0.024"/>
+  <testcase name="testCardinality" classname="org.apache.mahout.math.TestSparseRowMatrix" time="0.025"/>
+  <testcase name="testTimesSquaredTimesVector" classname="org.apache.mahout.math.TestSparseRowMatrix" time="0.025"/>
+  <testcase name="testAssignColumnCardinality" classname="org.apache.mahout.math.TestSparseRowMatrix" time="0.029"/>
+  <testcase name="testPlusDouble" classname="org.apache.mahout.math.TestSparseRowMatrix" time="0.017"/>
+  <testcase name="testTimesDenseEfficiency" classname="org.apache.mahout.math.TestSparseRowMatrix" time="0.923"/>
+  <testcase name="testViewColumn" classname="org.apache.mahout.math.TestSparseRowMatrix" time="0.016"/>
+  <testcase name="testTimesSparseEfficiency" classname="org.apache.mahout.math.TestSparseRowMatrix" time="1.532"/>
+  <testcase name="testLabelBindings" classname="org.apache.mahout.math.TestSparseRowMatrix" time="0.022"/>
+  <testcase name="testViewColumnIndexUnder" classname="org.apache.mahout.math.TestSparseRowMatrix" time="0.016"/>
+  <testcase name="testViewPartIndexOver" classname="org.apache.mahout.math.TestSparseRowMatrix" time="0.017"/>
+  <testcase name="testSize" classname="org.apache.mahout.math.TestSparseRowMatrix" time="0.024"/>
+  <testcase name="testViewRowIndexOver" classname="org.apache.mahout.math.TestSparseRowMatrix" time="0.022"/>
+  <testcase name="testTimesDouble" classname="org.apache.mahout.math.TestSparseRowMatrix" time="0.045"/>
+  <testcase name="testTimesMatrixCardinality" classname="org.apache.mahout.math.TestSparseRowMatrix" time="0.038"/>
+  <testcase name="testViewPartIndexUnder" classname="org.apache.mahout.math.TestSparseRowMatrix" time="0.015"/>
+  <testcase name="testRowView" classname="org.apache.mahout.math.TestSparseRowMatrix" time="0.015"/>
+  <testcase name="testAggregateRows" classname="org.apache.mahout.math.TestSparseRowMatrix" time="0.015"/>
+  <testcase name="testTimesVector" classname="org.apache.mahout.math.TestSparseRowMatrix" time="0.016"/>
+  <testcase name="testClone" classname="org.apache.mahout.math.TestSparseRowMatrix" time="0.015"/>
+  <testcase name="testGetQuick" classname="org.apache.mahout.math.TestSparseRowMatrix" time="0.015"/>
+  <testcase name="testTranspose" classname="org.apache.mahout.math.TestSparseRowMatrix" time="0.022"/>
+  <testcase name="testZSum" classname="org.apache.mahout.math.TestSparseRowMatrix" time="0.016"/>
+  <testcase name="testSettingLabelBindings" classname="org.apache.mahout.math.TestSparseRowMatrix" time="0.027"/>
+  <testcase name="testSetUnder" classname="org.apache.mahout.math.TestSparseRowMatrix" time="0.014"/>
+  <testcase name="testViewPart" classname="org.apache.mahout.math.TestSparseRowMatrix" time="0.014"/>
+  <testcase name="testViewColumnIndexOver" classname="org.apache.mahout.math.TestSparseRowMatrix" time="0.013"/>
+  <testcase name="testDeterminant" classname="org.apache.mahout.math.TestSparseRowMatrix" time="0.02"/>
+  <testcase name="testGetIndexOver" classname="org.apache.mahout.math.TestSparseRowMatrix" time="0.014"/>
+  <testcase name="testGet" classname="org.apache.mahout.math.TestSparseRowMatrix" time="0.026"/>
+  <testcase name="testCopy" classname="org.apache.mahout.math.TestSparseRowMatrix" time="0.018"/>
+  <testcase name="testAssignMatrixBinaryFunctionCardinality" classname="org.apache.mahout.math.TestSparseRowMatrix" time="0.013"/>
+  <testcase name="testAssignDoubleArrayArrayCardinality" classname="org.apache.mahout.math.TestSparseRowMatrix" time="0.014"/>
+  <testcase name="testLikeIntInt" classname="org.apache.mahout.math.TestSparseRowMatrix" time="0.017"/>
+  <testcase name="testSetOver" classname="org.apache.mahout.math.TestSparseRowMatrix" time="0.012"/>
+  <testcase name="testMinus" classname="org.apache.mahout.math.TestSparseRowMatrix" time="0.032"/>
+  <testcase name="testDivide" classname="org.apache.mahout.math.TestSparseRowMatrix" time="0.011"/>
+  <testcase name="testAssignMatrixCardinality" classname="org.apache.mahout.math.TestSparseRowMatrix" time="0.01"/>
+  <testcase name="testAssignRow" classname="org.apache.mahout.math.TestSparseRowMatrix" time="0.011"/>
+  <testcase name="testAssignMatrix" classname="org.apache.mahout.math.TestSparseRowMatrix" time="0.01"/>
+  <testcase name="testAggregate" classname="org.apache.mahout.math.TestSparseRowMatrix" time="0.024"/>
+  <testcase name="testViewRow" classname="org.apache.mahout.math.TestSparseRowMatrix" time="0.013"/>
+  <testcase name="testAssignDouble" classname="org.apache.mahout.math.TestSparseRowMatrix" time="0.009"/>
+</testsuite>

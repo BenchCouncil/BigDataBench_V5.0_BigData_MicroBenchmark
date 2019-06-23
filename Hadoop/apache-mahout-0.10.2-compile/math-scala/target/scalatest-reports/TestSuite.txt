@@ -1,0 +1,51 @@
+Discovery starting.
+Discovery completed in 959 milliseconds.
+Run starting. Expected test count is: 36
+VectorOpsSuite:
+- inline create (69 milliseconds)
+- plus minus (81 milliseconds)
+- dot (1 millisecond)
+- scalarOps (7 milliseconds)
+- sparse assignment (10 milliseconds)
+RLikeMatrixOpsSuite:
+- multiplication (26 milliseconds)
+- Hadamard (14 milliseconds)
+- Uniform view (2 milliseconds)
+- scalarOps (3 milliseconds)
+- Multiplication experimental performance (10 minutes, 27 seconds)
+- elementwise experimental performance (59 seconds, 883 milliseconds)
+MatlabLikeMatrixOpsSuite:
+- multiplication (1 millisecond)
+- Hadamard (3 milliseconds)
+RLikeVectorOpsSuite:
+- Hadamard (1 millisecond)
+MathSuite:
+- chol (10 milliseconds)
+- chol2 (9 milliseconds)
+- qr (10 milliseconds)
+- solve matrix-vector (1 millisecond)
+- solve matrix-matrix (1 millisecond)
+- solve to obtain inverse (1 millisecond)
+- solve rejects non-square matrix (1 millisecond)
+- solve rejects singular matrix (1 millisecond)
+- svd (5 milliseconds)
+- random uniform (5 milliseconds)
+- sqDist(X,Y) (302 milliseconds)
+- sqDist(X) (37 milliseconds)
+DecompositionsSuite:
+- ssvd (21 milliseconds)
+- spca (1 second, 388 milliseconds)
+MatrixOpsSuite:
+- equivalence (2 milliseconds)
+- elementwise plus, minus (1 millisecond)
+- matrix, vector slicing (9 milliseconds)
+- assignments (9 milliseconds)
+- sparse (2 milliseconds)
+- colSums, rowSums, colMeans, rowMeans, numNonZeroElementsPerColumn (1 millisecond)
+- numNonZeroElementsPerColumn and Row (1 millisecond)
+- Vector Assignment performance (1 minute, 36 seconds)
+Run completed in 13 minutes, 6 seconds.
+Total number of tests run: 36
+Suites: completed 8, aborted 0
+Tests: succeeded 36, failed 0, canceled 0, ignored 0, pending 0
+All tests passed.

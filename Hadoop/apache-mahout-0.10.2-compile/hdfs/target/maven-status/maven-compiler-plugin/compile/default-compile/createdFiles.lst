@@ -1,0 +1,8 @@
+org/apache/mahout/math/VectorWritable.class
+org/apache/mahout/common/IOUtils$DeleteFileOnClose.class
+org/apache/mahout/math/VarIntWritable.class
+org/apache/mahout/common/IOUtils.class
+org/apache/mahout/common/IOUtils$MultipleOutputsCloseableAdapter.class
+org/apache/mahout/math/VarLongWritable.class
+org/apache/mahout/math/Varint.class
+org/apache/mahout/math/MatrixWritable.class

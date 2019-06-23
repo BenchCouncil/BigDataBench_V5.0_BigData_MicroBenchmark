@@ -1,0 +1,73 @@
+.. Copyright (C) 2004-2008 The Trustees of Indiana University.
+   Use, modification and distribution is subject to the Boost Software
+   License, Version 1.0. (See accompanying file LICENSE_1_0.txt or copy at
+   http://www.boost.org/LICENSE_1_0.txt)
+
+~~~~~~~~~~~~
+Introduction
+~~~~~~~~~~~~
+
+This is an alpha version of the Parallel Boost Graph Library (Parallel
+BGL), a generic parallel graph library built on and fashioned after
+the Boost Graph Library (BGL). The complete source code is included,
+with documentation and tests. If you have any questions, comments, or
+require help with the Parallel BGL, please see the Parallel BGL web page.
+
+We strongly suggest building and executing the test suite before
+embarking on writing your own programs. Documentation for the source
+code is available online at
+
+  http://www.osl.iu.edu/research/pbgl/
+
+Familiarity with the Boost Graph Library
+(http://www.boost.org/libs/graph/doc/table_of_contents.html) is
+assumed.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Configure, build, and install
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The Parallel BGL uses CMake (http://www.cmake.org) version 2.6.0 or
+newer to configure itself to the environment. Before
+configuring, you will need several software packages available:
+
+  - Boost 1.43.0 or newer (available at http://www.boost.org).
+
+  - An implementation of MPI-1. We typically test with Open MPI 1.2.x
+    and Microsoft's MS-MPI.
+
+  - A decent C++ compiler. We have tested the Parallel BGL with Visual
+    Studio 2008 and various versions of GCC 4.0 or newer.
+
+  - If you want to build documentation, you will need a Python
+    interpreter and reStructuredText
+    (http://docutils.sourceforge.net/rst.html). This step is optional:
+    all documentation is online on the Parallel BGL web page.
+
+To configure the Parallel BGL, use one of CMake's configuration tools
+and provide it with the location of the Parallel BGL source tree.
+
+  - CMake application (Windows, Mac OS)
+  - cmake-gui: Qt CMake GUI (most platforms)
+  - ccmake: curses-based interface (available on Unix)
+  - cmake: command-line interface (everywhere)
+
+Once configured, build the Parallel BGL with your native build
+environment, e.g., Visual Studio, "make", etc.
+
+To install the Parallel BGL, invoke the "install" target of the
+generated makefiles or project.
+
+To test the Parallel BGL, make sure that your MPI environment is
+running (e.g., run lamboot) and run "make test" (if using makefiles)
+or "ctest -C CONFIG", where CONFIG is either "Debug" or "Release" (if
+using Windows).
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Building applications using the Parallel BGL
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+When building Parallel BGL applications, place the include path for
+the Parallel BGL headers *before* the include path for the Boost
+headers. The Parallel BGL overrides some headers from Boost, so
+this is crucial.

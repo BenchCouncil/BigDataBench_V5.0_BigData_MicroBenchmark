@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.apache.mahout.cf.taste.impl.common.FastByIDMapTest
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.763 sec - in org.apache.mahout.cf.taste.impl.common.FastByIDMapTest

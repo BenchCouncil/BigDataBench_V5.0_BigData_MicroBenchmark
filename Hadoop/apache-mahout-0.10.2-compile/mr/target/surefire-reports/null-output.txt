@@ -1,0 +1,1 @@
+BruteSearch: avg_time(1 query) 7.142578[s]

@@ -1,0 +1,5 @@
+/home/gwl/apache-mahout-distribution-0.10.2/examples/src/test/java/org/apache/mahout/classifier/sgd/TrainLogisticTest.java
+/home/gwl/apache-mahout-distribution-0.10.2/examples/src/test/java/org/apache/mahout/clustering/display/ClustersFilterTest.java
+/home/gwl/apache-mahout-distribution-0.10.2/examples/src/test/java/org/apache/mahout/examples/MahoutTestCase.java
+/home/gwl/apache-mahout-distribution-0.10.2/examples/src/test/java/org/apache/mahout/classifier/sgd/LogisticModelParametersTest.java
+/home/gwl/apache-mahout-distribution-0.10.2/examples/src/test/java/org/apache/mahout/classifier/sgd/ModelDissectorTest.java

@@ -1,0 +1,370 @@
+log4j:WARN No appenders could be found for logger (org.apache.hadoop.metrics2.lib.MutableMetricsFactory).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/home/ubuntu15/.m2/repository/org/slf4j/slf4j-log4j12/1.7.12/slf4j-log4j12-1.7.12.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/home/ubuntu15/.m2/repository/org/slf4j/slf4j-jcl/1.7.12/slf4j-jcl-1.7.12.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.impl.Log4jLoggerFactory]
+0 all
+1 baseball
+2 best
+3 black
+4 bob
+5 brown
+6 cap
+7 cat
+8 crazy
+9 dick
+10 dogs
+11 english
+12 fleece
+13 fox
+14 goat
+15 had
+16 jacket
+17 jumped
+18 lamb
+19 lazy
+20 little
+21 man
+22 mary
+23 moby
+24 obsessed
+25 over
+26 quick
+27 red
+28 robber
+29 snow
+30 spaniel
+31 springer
+32 story
+33 tar
+34 walrus
+35 whale
+36 white
+37 whose
+38 wore
+[{"brown":2.099},{"dogs":1.916},{"fox":2.609},{"jumped":2.099},{"lazy":2.099},{"over":2.099},{"quick":2.099},{"red":1.916}]
+[{"brown":2.099},{"dogs":1.916},{"fox":2.609},{"jumped":2.099},{"lazy":2.099},{"over":2.099},{"quick":2.099},{"red":1.916}]
+[{"brown":2.099},{"cat":2.609},{"dogs":1.916},{"jumped":2.099},{"lazy":2.099},{"over":2.099},{"quick":2.099},{"red":1.916}]
+[{"brown":2.099},{"cat":2.609},{"dogs":1.916},{"jumped":2.099},{"lazy":2.099},{"over":2.099},{"quick":2.099},{"red":1.916}]
+[{"fleece":1.629},{"had":2.099},{"lamb":2.609},{"little":2.099},{"mary":2.322},{"snow":2.322},{"white":2.099},{"whose":2.099}]
+[{"fleece":1.629},{"goat":2.609},{"had":2.099},{"little":2.099},{"mary":2.322},{"snow":2.322},{"white":2.099},{"whose":2.099}]
+[{"black":2.609},{"fleece":1.629},{"had":2.099},{"lamb":2.609},{"little":2.099},{"mary":2.322},{"tar":3.015},{"whose":2.099}]
+[{"dick":2.322},{"fleece":1.629},{"goat":2.609},{"had":2.099},{"little":2.099},{"snow":2.322},{"white":2.099},{"whose":2.099}]
+[{"dick":2.322},{"man":2.322},{"moby":2.322},{"obsessed":2.609},{"story":2.322},{"whale":2.609}]
+[{"bob":3.015},{"man":2.322},{"moby":2.322},{"obsessed":2.609},{"story":2.322},{"walrus":3.015}]
+[{"crazy":3.015},{"dick":2.322},{"man":2.322},{"moby":2.322},{"story":2.322},{"whale":2.609}]
+[{"baseball":2.322},{"black":2.609},{"cap":2.322},{"fleece":1.629},{"jacket":2.322},{"robber":2.322},{"wore":2.322}]
+[{"baseball":2.322},{"cap":2.322},{"fleece":1.629},{"jacket":2.322},{"red":1.916},{"robber":2.322},{"wore":2.322}]
+[{"baseball":2.322},{"cap":2.322},{"fleece":1.629},{"jacket":2.322},{"robber":2.322},{"white":2.099},{"wore":2.322}]
+[{"all":3.015},{"best":3.015},{"dogs":1.916},{"english":3.015},{"spaniel":3.015},{"springer":3.015}]
+{"top_terms":[{"whale":2.609437942504883},{"obsessed":2.609437942504883},{"moby":2.321755886077881},{"dick":2.321755886077881},{"story":2.321755886077881},{"man":2.321755886077881}],"cluster_id":8,"cluster":{"r":[],"c":[{"dick":2.322},{"man":2.322},{"moby":2.322},{"obsessed":2.609},{"story":2.322},{"whale":2.609}],"n":0,"identifier":"CL-8"},"points":[{"point":[{"dick":2.322},{"man":2.322},{"moby":2.322},{"obsessed":2.609},{"story":2.322},{"whale":2.609}],"vector_name":"P(8)","weight":"1.0"}]}
+{"top_terms":[{"jacket":2.321755886077881},{"robber":2.321755886077881},{"wore":2.321755886077881},{"baseball":2.321755886077881},{"cap":2.321755886077881},{"red":1.9162907600402832},{"fleece":1.6286087036132812}],"cluster_id":12,"cluster":{"r":[],"c":[{"baseball":2.322},{"cap":2.322},{"fleece":1.629},{"jacket":2.322},{"red":1.916},{"robber":2.322},{"wore":2.322}],"n":0,"identifier":"CL-12"},"points":[{"point":[{"brown":2.099},{"dogs":1.916},{"fox":2.609},{"jumped":2.099},{"lazy":2.099},{"over":2.099},{"quick":2.099},{"red":1.916}],"vector_name":"P(0)","weight":"1.0"},{"point":[{"brown":2.099},{"dogs":1.916},{"fox":2.609},{"jumped":2.099},{"lazy":2.099},{"over":2.099},{"quick":2.099},{"red":1.916}],"vector_name":"P(1)","weight":"1.0"},{"point":[{"brown":2.099},{"cat":2.609},{"dogs":1.916},{"jumped":2.099},{"lazy":2.099},{"over":2.099},{"quick":2.099},{"red":1.916}],"vector_name":"P(2)","weight":"1.0"},{"point":[{"brown":2.099},{"cat":2.609},{"dogs":1.916},{"jumped":2.099},{"lazy":2.099},{"over":2.099},{"quick":2.099},{"red":1.916}],"vector_name":"P(3)","weight":"1.0"},{"point":[{"baseball":2.322},{"black":2.609},{"cap":2.322},{"fleece":1.629},{"jacket":2.322},{"robber":2.322},{"wore":2.322}],"vector_name":"P(11)","weight":"1.0"},{"point":[{"baseball":2.322},{"cap":2.322},{"fleece":1.629},{"jacket":2.322},{"red":1.916},{"robber":2.322},{"wore":2.322}],"vector_name":"P(12)","weight":"1.0"},{"point":[{"baseball":2.322},{"cap":2.322},{"fleece":1.629},{"jacket":2.322},{"robber":2.322},{"white":2.099},{"wore":2.322}],"vector_name":"P(13)","weight":"1.0"},{"point":[{"all":3.015},{"best":3.015},{"dogs":1.916},{"english":3.015},{"spaniel":3.015},{"springer":3.015}],"vector_name":"P(14)","weight":"1.0"}]}
+{"top_terms":[{"walrus":3.0149030685424805},{"bob":3.0149030685424805},{"obsessed":2.609437942504883},{"moby":2.321755886077881},{"story":2.321755886077881},{"man":2.321755886077881}],"cluster_id":9,"cluster":{"r":[],"c":[{"bob":3.015},{"man":2.322},{"moby":2.322},{"obsessed":2.609},{"story":2.322},{"walrus":3.015}],"n":0,"identifier":"CL-9"},"points":[{"point":[{"bob":3.015},{"man":2.322},{"moby":2.322},{"obsessed":2.609},{"story":2.322},{"walrus":3.015}],"vector_name":"P(9)","weight":"1.0"}]}
+{"top_terms":[{"crazy":3.0149030685424805},{"whale":2.609437942504883},{"moby":2.321755886077881},{"dick":2.321755886077881},{"story":2.321755886077881},{"man":2.321755886077881}],"cluster_id":10,"cluster":{"r":[],"c":[{"crazy":3.015},{"dick":2.322},{"man":2.322},{"moby":2.322},{"story":2.322},{"whale":2.609}],"n":0,"identifier":"CL-10"},"points":[{"point":[{"crazy":3.015},{"dick":2.322},{"man":2.322},{"moby":2.322},{"story":2.322},{"whale":2.609}],"vector_name":"P(10)","weight":"1.0"}]}
+{"top_terms":[{"lamb":2.609437942504883},{"snow":2.321755886077881},{"mary":2.321755886077881},{"white":2.0986123085021973},{"little":2.0986123085021973},{"had":2.0986123085021973},{"whose":2.0986123085021973},{"fleece":1.6286087036132812}],"cluster_id":4,"cluster":{"r":[],"c":[{"fleece":1.629},{"had":2.099},{"lamb":2.609},{"little":2.099},{"mary":2.322},{"snow":2.322},{"white":2.099},{"whose":2.099}],"n":0,"identifier":"CL-4"},"points":[{"point":[{"fleece":1.629},{"had":2.099},{"lamb":2.609},{"little":2.099},{"mary":2.322},{"snow":2.322},{"white":2.099},{"whose":2.099}],"vector_name":"P(4)","weight":"1.0"}]}
+{"top_terms":[{"goat":2.609437942504883},{"snow":2.321755886077881},{"mary":2.321755886077881},{"white":2.0986123085021973},{"whose":2.0986123085021973},{"little":2.0986123085021973},{"had":2.0986123085021973},{"fleece":1.6286087036132812}],"cluster_id":5,"cluster":{"r":[],"c":[{"fleece":1.629},{"goat":2.609},{"had":2.099},{"little":2.099},{"mary":2.322},{"snow":2.322},{"white":2.099},{"whose":2.099}],"n":0,"identifier":"CL-5"},"points":[{"point":[{"fleece":1.629},{"goat":2.609},{"had":2.099},{"little":2.099},{"mary":2.322},{"snow":2.322},{"white":2.099},{"whose":2.099}],"vector_name":"P(5)","weight":"1.0"}]}
+{"top_terms":[{"tar":3.0149030685424805},{"black":2.609437942504883},{"lamb":2.609437942504883},{"mary":2.321755886077881},{"whose":2.0986123085021973},{"little":2.0986123085021973},{"had":2.0986123085021973},{"fleece":1.6286087036132812}],"cluster_id":6,"cluster":{"r":[],"c":[{"black":2.609},{"fleece":1.629},{"had":2.099},{"lamb":2.609},{"little":2.099},{"mary":2.322},{"tar":3.015},{"whose":2.099}],"n":0,"identifier":"CL-6"},"points":[{"point":[{"black":2.609},{"fleece":1.629},{"had":2.099},{"lamb":2.609},{"little":2.099},{"mary":2.322},{"tar":3.015},{"whose":2.099}],"vector_name":"P(6)","weight":"1.0"}]}
+{"top_terms":[{"goat":2.609437942504883},{"snow":2.321755886077881},{"dick":2.321755886077881},{"white":2.0986123085021973},{"little":2.0986123085021973},{"whose":2.0986123085021973},{"had":2.0986123085021973},{"fleece":1.6286087036132812}],"cluster_id":7,"cluster":{"r":[],"c":[{"dick":2.322},{"fleece":1.629},{"goat":2.609},{"had":2.099},{"little":2.099},{"snow":2.322},{"white":2.099},{"whose":2.099}],"n":0,"identifier":"CL-7"},"points":[{"point":[{"dick":2.322},{"fleece":1.629},{"goat":2.609},{"had":2.099},{"little":2.099},{"snow":2.322},{"white":2.099},{"whose":2.099}],"vector_name":"P(7)","weight":"1.0"}]}
+0 all
+1 baseball
+2 best
+3 black
+4 bob
+5 brown
+6 cap
+7 cat
+8 crazy
+9 dick
+10 dogs
+11 english
+12 fleece
+13 fox
+14 goat
+15 had
+16 jacket
+17 jumped
+18 lamb
+19 lazy
+20 little
+21 man
+22 mary
+23 moby
+24 obsessed
+25 over
+26 quick
+27 red
+28 robber
+29 snow
+30 spaniel
+31 springer
+32 story
+33 tar
+34 walrus
+35 whale
+36 white
+37 whose
+38 wore
+[{"brown":2.099},{"dogs":1.916},{"fox":2.609},{"jumped":2.099},{"lazy":2.099},{"over":2.099},{"quick":2.099},{"red":1.916}]
+[{"brown":2.099},{"dogs":1.916},{"fox":2.609},{"jumped":2.099},{"lazy":2.099},{"over":2.099},{"quick":2.099},{"red":1.916}]
+[{"brown":2.099},{"cat":2.609},{"dogs":1.916},{"jumped":2.099},{"lazy":2.099},{"over":2.099},{"quick":2.099},{"red":1.916}]
+[{"brown":2.099},{"cat":2.609},{"dogs":1.916},{"jumped":2.099},{"lazy":2.099},{"over":2.099},{"quick":2.099},{"red":1.916}]
+[{"fleece":1.629},{"had":2.099},{"lamb":2.609},{"little":2.099},{"mary":2.322},{"snow":2.322},{"white":2.099},{"whose":2.099}]
+[{"fleece":1.629},{"goat":2.609},{"had":2.099},{"little":2.099},{"mary":2.322},{"snow":2.322},{"white":2.099},{"whose":2.099}]
+[{"black":2.609},{"fleece":1.629},{"had":2.099},{"lamb":2.609},{"little":2.099},{"mary":2.322},{"tar":3.015},{"whose":2.099}]
+[{"dick":2.322},{"fleece":1.629},{"goat":2.609},{"had":2.099},{"little":2.099},{"snow":2.322},{"white":2.099},{"whose":2.099}]
+[{"dick":2.322},{"man":2.322},{"moby":2.322},{"obsessed":2.609},{"story":2.322},{"whale":2.609}]
+[{"bob":3.015},{"man":2.322},{"moby":2.322},{"obsessed":2.609},{"story":2.322},{"walrus":3.015}]
+[{"crazy":3.015},{"dick":2.322},{"man":2.322},{"moby":2.322},{"story":2.322},{"whale":2.609}]
+[{"baseball":2.322},{"black":2.609},{"cap":2.322},{"fleece":1.629},{"jacket":2.322},{"robber":2.322},{"wore":2.322}]
+[{"baseball":2.322},{"cap":2.322},{"fleece":1.629},{"jacket":2.322},{"red":1.916},{"robber":2.322},{"wore":2.322}]
+[{"baseball":2.322},{"cap":2.322},{"fleece":1.629},{"jacket":2.322},{"robber":2.322},{"white":2.099},{"wore":2.322}]
+[{"all":3.015},{"best":3.015},{"dogs":1.916},{"english":3.015},{"spaniel":3.015},{"springer":3.015}]
+{"r":[],"c":[{"dick":2.322},{"man":2.322},{"moby":2.322},{"obsessed":2.609},{"story":2.322},{"whale":2.609}],"n":0,"identifier":"CL-8"}
+	Top Terms: 
+		whale                                   =>   2.609437942504883
+		obsessed                                =>   2.609437942504883
+		moby                                    =>   2.321755886077881
+		dick                                    =>   2.321755886077881
+		story                                   =>   2.321755886077881
+		man                                     =>   2.321755886077881
+	Weight : [props - optional]:  Point:
+	1.0 : [distance=0.0]: [{"dick":2.322},{"man":2.322},{"moby":2.322},{"obsessed":2.609},{"story":2.322},{"whale":2.609}]
+{"r":[],"c":[{"baseball":2.322},{"cap":2.322},{"fleece":1.629},{"jacket":2.322},{"red":1.916},{"robber":2.322},{"wore":2.322}],"n":0,"identifier":"CL-12"}
+	Top Terms: 
+		jacket                                  =>   2.321755886077881
+		robber                                  =>   2.321755886077881
+		wore                                    =>   2.321755886077881
+		baseball                                =>   2.321755886077881
+		cap                                     =>   2.321755886077881
+		red                                     =>  1.9162907600402832
+		fleece                                  =>  1.6286087036132812
+	Weight : [props - optional]:  Point:
+	1.0 : [distance=3.9802387193437827]: [{"brown":2.099},{"dogs":1.916},{"fox":2.609},{"jumped":2.099},{"lazy":2.099},{"over":2.099},{"quick":2.099},{"red":1.916}]
+	1.0 : [distance=3.9802387193437827]: [{"brown":2.099},{"dogs":1.916},{"fox":2.609},{"jumped":2.099},{"lazy":2.099},{"over":2.099},{"quick":2.099},{"red":1.916}]
+	1.0 : [distance=3.9802387193437827]: [{"brown":2.099},{"cat":2.609},{"dogs":1.916},{"jumped":2.099},{"lazy":2.099},{"over":2.099},{"quick":2.099},{"red":1.916}]
+	1.0 : [distance=3.9802387193437827]: [{"brown":2.099},{"cat":2.609},{"dogs":1.916},{"jumped":2.099},{"lazy":2.099},{"over":2.099},{"quick":2.099},{"red":1.916}]
+	1.0 : [distance=5.175128652116794]: [{"baseball":2.322},{"black":2.609},{"cap":2.322},{"fleece":1.629},{"jacket":2.322},{"robber":2.322},{"wore":2.322}]
+	1.0 : [distance=4.555989378265511]: [{"baseball":2.322},{"cap":2.322},{"fleece":1.629},{"jacket":2.322},{"red":1.916},{"robber":2.322},{"wore":2.322}]
+	1.0 : [distance=4.997820725093067]: [{"baseball":2.322},{"cap":2.322},{"fleece":1.629},{"jacket":2.322},{"robber":2.322},{"white":2.099},{"wore":2.322}]
+	1.0 : [distance=6.887808909005538]: [{"all":3.015},{"best":3.015},{"dogs":1.916},{"english":3.015},{"spaniel":3.015},{"springer":3.015}]
+{"r":[],"c":[{"bob":3.015},{"man":2.322},{"moby":2.322},{"obsessed":2.609},{"story":2.322},{"walrus":3.015}],"n":0,"identifier":"CL-9"}
+	Top Terms: 
+		walrus                                  =>  3.0149030685424805
+		bob                                     =>  3.0149030685424805
+		obsessed                                =>   2.609437942504883
+		moby                                    =>   2.321755886077881
+		story                                   =>   2.321755886077881
+		man                                     =>   2.321755886077881
+	Weight : [props - optional]:  Point:
+	1.0 : [distance=0.0]: [{"bob":3.015},{"man":2.322},{"moby":2.322},{"obsessed":2.609},{"story":2.322},{"walrus":3.015}]
+{"r":[],"c":[{"crazy":3.015},{"dick":2.322},{"man":2.322},{"moby":2.322},{"story":2.322},{"whale":2.609}],"n":0,"identifier":"CL-10"}
+	Top Terms: 
+		crazy                                   =>  3.0149030685424805
+		whale                                   =>   2.609437942504883
+		moby                                    =>   2.321755886077881
+		dick                                    =>   2.321755886077881
+		story                                   =>   2.321755886077881
+		man                                     =>   2.321755886077881
+	Weight : [props - optional]:  Point:
+	1.0 : [distance=0.0]: [{"crazy":3.015},{"dick":2.322},{"man":2.322},{"moby":2.322},{"story":2.322},{"whale":2.609}]
+{"r":[],"c":[{"fleece":1.629},{"had":2.099},{"lamb":2.609},{"little":2.099},{"mary":2.322},{"snow":2.322},{"white":2.099},{"whose":2.099}],"n":0,"identifier":"CL-4"}
+	Top Terms: 
+		lamb                                    =>   2.609437942504883
+		snow                                    =>   2.321755886077881
+		mary                                    =>   2.321755886077881
+		white                                   =>  2.0986123085021973
+		little                                  =>  2.0986123085021973
+		had                                     =>  2.0986123085021973
+		whose                                   =>  2.0986123085021973
+		fleece                                  =>  1.6286087036132812
+	Weight : [props - optional]:  Point:
+	1.0 : [distance=0.0]: [{"fleece":1.629},{"had":2.099},{"lamb":2.609},{"little":2.099},{"mary":2.322},{"snow":2.322},{"white":2.099},{"whose":2.099}]
+{"r":[],"c":[{"fleece":1.629},{"goat":2.609},{"had":2.099},{"little":2.099},{"mary":2.322},{"snow":2.322},{"white":2.099},{"whose":2.099}],"n":0,"identifier":"CL-5"}
+	Top Terms: 
+		goat                                    =>   2.609437942504883
+		snow                                    =>   2.321755886077881
+		mary                                    =>   2.321755886077881
+		white                                   =>  2.0986123085021973
+		whose                                   =>  2.0986123085021973
+		little                                  =>  2.0986123085021973
+		had                                     =>  2.0986123085021973
+		fleece                                  =>  1.6286087036132812
+	Weight : [props - optional]:  Point:
+	1.0 : [distance=0.0]: [{"fleece":1.629},{"goat":2.609},{"had":2.099},{"little":2.099},{"mary":2.322},{"snow":2.322},{"white":2.099},{"whose":2.099}]
+{"r":[],"c":[{"black":2.609},{"fleece":1.629},{"had":2.099},{"lamb":2.609},{"little":2.099},{"mary":2.322},{"tar":3.015},{"whose":2.099}],"n":0,"identifier":"CL-6"}
+	Top Terms: 
+		tar                                     =>  3.0149030685424805
+		black                                   =>   2.609437942504883
+		lamb                                    =>   2.609437942504883
+		mary                                    =>   2.321755886077881
+		whose                                   =>  2.0986123085021973
+		little                                  =>  2.0986123085021973
+		had                                     =>  2.0986123085021973
+		fleece                                  =>  1.6286087036132812
+	Weight : [props - optional]:  Point:
+	1.0 : [distance=0.0]: [{"black":2.609},{"fleece":1.629},{"had":2.099},{"lamb":2.609},{"little":2.099},{"mary":2.322},{"tar":3.015},{"whose":2.099}]
+{"r":[],"c":[{"dick":2.322},{"fleece":1.629},{"goat":2.609},{"had":2.099},{"little":2.099},{"snow":2.322},{"white":2.099},{"whose":2.099}],"n":0,"identifier":"CL-7"}
+	Top Terms: 
+		goat                                    =>   2.609437942504883
+		snow                                    =>   2.321755886077881
+		dick                                    =>   2.321755886077881
+		white                                   =>  2.0986123085021973
+		little                                  =>  2.0986123085021973
+		whose                                   =>  2.0986123085021973
+		had                                     =>  2.0986123085021973
+		fleece                                  =>  1.6286087036132812
+	Weight : [props - optional]:  Point:
+	1.0 : [distance=0.0]: [{"dick":2.322},{"fleece":1.629},{"goat":2.609},{"had":2.099},{"little":2.099},{"snow":2.322},{"white":2.099},{"whose":2.099}]
+0 all
+1 baseball
+2 best
+3 black
+4 bob
+5 brown
+6 cap
+7 cat
+8 crazy
+9 dick
+10 dogs
+11 english
+12 fleece
+13 fox
+14 goat
+15 had
+16 jacket
+17 jumped
+18 lamb
+19 lazy
+20 little
+21 man
+22 mary
+23 moby
+24 obsessed
+25 over
+26 quick
+27 red
+28 robber
+29 snow
+30 spaniel
+31 springer
+32 story
+33 tar
+34 walrus
+35 whale
+36 white
+37 whose
+38 wore
+[{"brown":2.099},{"dogs":1.916},{"fox":2.609},{"jumped":2.099},{"lazy":2.099},{"over":2.099},{"quick":2.099},{"red":1.916}]
+[{"brown":2.099},{"dogs":1.916},{"fox":2.609},{"jumped":2.099},{"lazy":2.099},{"over":2.099},{"quick":2.099},{"red":1.916}]
+[{"brown":2.099},{"cat":2.609},{"dogs":1.916},{"jumped":2.099},{"lazy":2.099},{"over":2.099},{"quick":2.099},{"red":1.916}]
+[{"brown":2.099},{"cat":2.609},{"dogs":1.916},{"jumped":2.099},{"lazy":2.099},{"over":2.099},{"quick":2.099},{"red":1.916}]
+[{"fleece":1.629},{"had":2.099},{"lamb":2.609},{"little":2.099},{"mary":2.322},{"snow":2.322},{"white":2.099},{"whose":2.099}]
+[{"fleece":1.629},{"goat":2.609},{"had":2.099},{"little":2.099},{"mary":2.322},{"snow":2.322},{"white":2.099},{"whose":2.099}]
+[{"black":2.609},{"fleece":1.629},{"had":2.099},{"lamb":2.609},{"little":2.099},{"mary":2.322},{"tar":3.015},{"whose":2.099}]
+[{"dick":2.322},{"fleece":1.629},{"goat":2.609},{"had":2.099},{"little":2.099},{"snow":2.322},{"white":2.099},{"whose":2.099}]
+[{"dick":2.322},{"man":2.322},{"moby":2.322},{"obsessed":2.609},{"story":2.322},{"whale":2.609}]
+[{"bob":3.015},{"man":2.322},{"moby":2.322},{"obsessed":2.609},{"story":2.322},{"walrus":3.015}]
+[{"crazy":3.015},{"dick":2.322},{"man":2.322},{"moby":2.322},{"story":2.322},{"whale":2.609}]
+[{"baseball":2.322},{"black":2.609},{"cap":2.322},{"fleece":1.629},{"jacket":2.322},{"robber":2.322},{"wore":2.322}]
+[{"baseball":2.322},{"cap":2.322},{"fleece":1.629},{"jacket":2.322},{"red":1.916},{"robber":2.322},{"wore":2.322}]
+[{"baseball":2.322},{"cap":2.322},{"fleece":1.629},{"jacket":2.322},{"robber":2.322},{"white":2.099},{"wore":2.322}]
+[{"all":3.015},{"best":3.015},{"dogs":1.916},{"english":3.015},{"spaniel":3.015},{"springer":3.015}]
+{"r":[],"c":[{"dick":2.322},{"man":2.322},{"moby":2.322},{"obsessed":2.609},{"story":2.322},{"whale":2.609}],"n":0,"identifier":"CL-8"}
+	Top Terms: 
+		whale                                   =>   2.609437942504883
+		obsessed                                =>   2.609437942504883
+		moby                                    =>   2.321755886077881
+		dick                                    =>   2.321755886077881
+		story                                   =>   2.321755886077881
+		man                                     =>   2.321755886077881
+	Weight : [props - optional]:  Point:
+	1.0 : [distance=1.1422885558575607E-4]: [{"all":3.015},{"best":3.015},{"dogs":1.916},{"english":3.015},{"spaniel":3.015},{"springer":3.015}]
+{"r":[],"c":[{"baseball":2.322},{"cap":2.322},{"fleece":1.629},{"jacket":2.322},{"red":1.916},{"robber":2.322},{"wore":2.322}],"n":0,"identifier":"CL-12"}
+	Top Terms: 
+		jacket                                  =>   2.321755886077881
+		robber                                  =>   2.321755886077881
+		wore                                    =>   2.321755886077881
+		baseball                                =>   2.321755886077881
+		cap                                     =>   2.321755886077881
+		red                                     =>  1.9162907600402832
+		fleece                                  =>  1.6286087036132812
+	Weight : [props - optional]:  Point:
+	0.999999340666246 : [distance=3.835400579880516]: [{"brown":2.099},{"dogs":1.916},{"fox":2.609},{"jumped":2.099},{"lazy":2.099},{"over":2.099},{"quick":2.099},{"red":1.916}]
+	0.999999340666246 : [distance=3.835400579880516]: [{"brown":2.099},{"dogs":1.916},{"fox":2.609},{"jumped":2.099},{"lazy":2.099},{"over":2.099},{"quick":2.099},{"red":1.916}]
+	0.999999340666246 : [distance=3.835400579880516]: [{"brown":2.099},{"cat":2.609},{"dogs":1.916},{"jumped":2.099},{"lazy":2.099},{"over":2.099},{"quick":2.099},{"red":1.916}]
+	0.999999340666246 : [distance=3.835400579880516]: [{"brown":2.099},{"cat":2.609},{"dogs":1.916},{"jumped":2.099},{"lazy":2.099},{"over":2.099},{"quick":2.099},{"red":1.916}]
+	0.9995318108285546 : [distance=5.11287759280266]: [{"baseball":2.322},{"black":2.609},{"cap":2.322},{"fleece":1.629},{"jacket":2.322},{"robber":2.322},{"wore":2.322}]
+	0.9999719814008324 : [distance=4.438764131714308]: [{"baseball":2.322},{"cap":2.322},{"fleece":1.629},{"jacket":2.322},{"red":1.916},{"robber":2.322},{"wore":2.322}]
+	0.999366922721602 : [distance=4.942030169538167]: [{"baseball":2.322},{"cap":2.322},{"fleece":1.629},{"jacket":2.322},{"robber":2.322},{"white":2.099},{"wore":2.322}]
+{"r":[],"c":[{"bob":3.015},{"man":2.322},{"moby":2.322},{"obsessed":2.609},{"story":2.322},{"walrus":3.015}],"n":0,"identifier":"CL-9"}
+	Top Terms: 
+		walrus                                  =>  3.0149030685424805
+		bob                                     =>  3.0149030685424805
+		obsessed                                =>   2.609437942504883
+		moby                                    =>   2.321755886077881
+		story                                   =>   2.321755886077881
+		man                                     =>   2.321755886077881
+	Weight : [props - optional]:  Point:
+	1.0 : [distance=2.9021578204285704E-4]: [{"bob":3.015},{"man":2.322},{"moby":2.322},{"obsessed":2.609},{"story":2.322},{"walrus":3.015}]
+{"r":[],"c":[{"crazy":3.015},{"dick":2.322},{"man":2.322},{"moby":2.322},{"story":2.322},{"whale":2.609}],"n":0,"identifier":"CL-10"}
+	Top Terms: 
+		crazy                                   =>  3.0149030685424805
+		whale                                   =>   2.609437942504883
+		moby                                    =>   2.321755886077881
+		dick                                    =>   2.321755886077881
+		story                                   =>   2.321755886077881
+		man                                     =>   2.321755886077881
+	Weight : [props - optional]:  Point:
+	0.9999999985213985 : [distance=1.993648928370597]: [{"dick":2.322},{"man":2.322},{"moby":2.322},{"obsessed":2.609},{"story":2.322},{"whale":2.609}]
+	0.9999999999726492 : [distance=1.9936819766062244]: [{"crazy":3.015},{"dick":2.322},{"man":2.322},{"moby":2.322},{"story":2.322},{"whale":2.609}]
+{"r":[],"c":[{"fleece":1.629},{"had":2.099},{"lamb":2.609},{"little":2.099},{"mary":2.322},{"snow":2.322},{"white":2.099},{"whose":2.099}],"n":0,"identifier":"CL-4"}
+	Top Terms: 
+		lamb                                    =>   2.609437942504883
+		snow                                    =>   2.321755886077881
+		mary                                    =>   2.321755886077881
+		white                                   =>  2.0986123085021973
+		little                                  =>  2.0986123085021973
+		had                                     =>  2.0986123085021973
+		whose                                   =>  2.0986123085021973
+		fleece                                  =>  1.6286087036132812
+	Weight : [props - optional]:  Point:
+	1.0 : [distance=0.0019201973652590012]: [{"fleece":1.629},{"had":2.099},{"lamb":2.609},{"little":2.099},{"mary":2.322},{"snow":2.322},{"white":2.099},{"whose":2.099}]
+{"r":[],"c":[{"fleece":1.629},{"goat":2.609},{"had":2.099},{"little":2.099},{"mary":2.322},{"snow":2.322},{"white":2.099},{"whose":2.099}],"n":0,"identifier":"CL-5"}
+	Top Terms: 
+		goat                                    =>   2.609437942504883
+		snow                                    =>   2.321755886077881
+		mary                                    =>   2.321755886077881
+		white                                   =>  2.0986123085021973
+		whose                                   =>  2.0986123085021973
+		little                                  =>  2.0986123085021973
+		had                                     =>  2.0986123085021973
+		fleece                                  =>  1.6286087036132812
+	Weight : [props - optional]:  Point:
+	1.0 : [distance=0.0019201973671769544]: [{"fleece":1.629},{"goat":2.609},{"had":2.099},{"little":2.099},{"mary":2.322},{"snow":2.322},{"white":2.099},{"whose":2.099}]
+{"r":[],"c":[{"black":2.609},{"fleece":1.629},{"had":2.099},{"lamb":2.609},{"little":2.099},{"mary":2.322},{"tar":3.015},{"whose":2.099}],"n":0,"identifier":"CL-6"}
+	Top Terms: 
+		tar                                     =>  3.0149030685424805
+		black                                   =>   2.609437942504883
+		lamb                                    =>   2.609437942504883
+		mary                                    =>   2.321755886077881
+		whose                                   =>  2.0986123085021973
+		little                                  =>  2.0986123085021973
+		had                                     =>  2.0986123085021973
+		fleece                                  =>  1.6286087036132812
+	Weight : [props - optional]:  Point:
+	1.0 : [distance=0.0016917501666494463]: [{"black":2.609},{"fleece":1.629},{"had":2.099},{"lamb":2.609},{"little":2.099},{"mary":2.322},{"tar":3.015},{"whose":2.099}]
+{"r":[],"c":[{"dick":2.322},{"fleece":1.629},{"goat":2.609},{"had":2.099},{"little":2.099},{"snow":2.322},{"white":2.099},{"whose":2.099}],"n":0,"identifier":"CL-7"}
+	Top Terms: 
+		goat                                    =>   2.609437942504883
+		snow                                    =>   2.321755886077881
+		dick                                    =>   2.321755886077881
+		white                                   =>  2.0986123085021973
+		little                                  =>  2.0986123085021973
+		whose                                   =>  2.0986123085021973
+		had                                     =>  2.0986123085021973
+		fleece                                  =>  1.6286087036132812
+	Weight : [props - optional]:  Point:
+	1.0 : [distance=0.001920197421738834]: [{"dick":2.322},{"fleece":1.629},{"goat":2.609},{"had":2.099},{"little":2.099},{"snow":2.322},{"white":2.099},{"whose":2.099}]

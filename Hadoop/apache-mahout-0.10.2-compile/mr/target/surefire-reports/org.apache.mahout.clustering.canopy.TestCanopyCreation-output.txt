@@ -1,0 +1,14 @@
+log4j:WARN No appenders could be found for logger (org.apache.hadoop.metrics2.lib.MutableMetricsFactory).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/home/ubuntu15/.m2/repository/org/slf4j/slf4j-log4j12/1.7.12/slf4j-log4j12-1.7.12.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/home/ubuntu15/.m2/repository/org/slf4j/slf4j-jcl/1.7.12/slf4j-jcl-1.7.12.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.impl.Log4jLoggerFactory]
+{"r":[0.5,0.5],"c":[1.5,1.5],"n":4,"identifier":"C-0"}
+{"r":[0.707,0.707],"c":[4.0,4.0],"n":4,"identifier":"C-1"}
+{"r":[0.471,0.471],"c":[4.667,4.667],"n":3,"identifier":"C-2"}
+{"r":[0.748,0.748],"c":[1.8,1.8],"n":5,"identifier":"C-0"}
+{"r":[0.748,0.748],"c":[4.2,4.2],"n":5,"identifier":"C-1"}
+{"r":[0.471,0.471],"c":[4.667,4.667],"n":3,"identifier":"C-2"}

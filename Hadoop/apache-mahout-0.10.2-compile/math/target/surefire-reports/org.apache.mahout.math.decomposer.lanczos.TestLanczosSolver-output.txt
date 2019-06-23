@@ -1,0 +1,894 @@
+Apr 07, 2016 5:34:16 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Finding 50 singular vectors of matrix with 800 rows, via Lanczos
+Apr 07, 2016 5:34:16 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 1 passes through the corpus so far...
+Apr 07, 2016 5:34:16 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 2 passes through the corpus so far...
+Apr 07, 2016 5:34:16 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 3 passes through the corpus so far...
+Apr 07, 2016 5:34:16 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 4 passes through the corpus so far...
+Apr 07, 2016 5:34:16 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 5 passes through the corpus so far...
+Apr 07, 2016 5:34:16 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 6 passes through the corpus so far...
+Apr 07, 2016 5:34:16 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 7 passes through the corpus so far...
+Apr 07, 2016 5:34:16 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 8 passes through the corpus so far...
+Apr 07, 2016 5:34:16 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 9 passes through the corpus so far...
+Apr 07, 2016 5:34:16 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 10 passes through the corpus so far...
+Apr 07, 2016 5:34:16 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 11 passes through the corpus so far...
+Apr 07, 2016 5:34:16 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 12 passes through the corpus so far...
+Apr 07, 2016 5:34:16 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 13 passes through the corpus so far...
+Apr 07, 2016 5:34:16 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 14 passes through the corpus so far...
+Apr 07, 2016 5:34:16 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 15 passes through the corpus so far...
+Apr 07, 2016 5:34:16 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 16 passes through the corpus so far...
+Apr 07, 2016 5:34:16 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 17 passes through the corpus so far...
+Apr 07, 2016 5:34:16 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 18 passes through the corpus so far...
+Apr 07, 2016 5:34:16 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 19 passes through the corpus so far...
+Apr 07, 2016 5:34:16 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 20 passes through the corpus so far...
+Apr 07, 2016 5:34:16 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 21 passes through the corpus so far...
+Apr 07, 2016 5:34:16 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 22 passes through the corpus so far...
+Apr 07, 2016 5:34:16 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 23 passes through the corpus so far...
+Apr 07, 2016 5:34:16 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 24 passes through the corpus so far...
+Apr 07, 2016 5:34:16 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 25 passes through the corpus so far...
+Apr 07, 2016 5:34:16 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 26 passes through the corpus so far...
+Apr 07, 2016 5:34:16 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 27 passes through the corpus so far...
+Apr 07, 2016 5:34:16 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 28 passes through the corpus so far...
+Apr 07, 2016 5:34:16 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 29 passes through the corpus so far...
+Apr 07, 2016 5:34:16 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 30 passes through the corpus so far...
+Apr 07, 2016 5:34:16 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 31 passes through the corpus so far...
+Apr 07, 2016 5:34:16 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 32 passes through the corpus so far...
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 33 passes through the corpus so far...
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 34 passes through the corpus so far...
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 35 passes through the corpus so far...
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 36 passes through the corpus so far...
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 37 passes through the corpus so far...
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 38 passes through the corpus so far...
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 39 passes through the corpus so far...
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 40 passes through the corpus so far...
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 41 passes through the corpus so far...
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 42 passes through the corpus so far...
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 43 passes through the corpus so far...
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 44 passes through the corpus so far...
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 45 passes through the corpus so far...
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 46 passes through the corpus so far...
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 47 passes through the corpus so far...
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 48 passes through the corpus so far...
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 49 passes through the corpus so far...
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Lanczos iteration complete - now to diagonalize the tri-diagonal auxiliary matrix.
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 0 found with eigenvalue 1.0003956700365846
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 1 found with eigenvalue 0.5002728665246405
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 2 found with eigenvalue 0.33497715734042965
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 3 found with eigenvalue 0.2500655693875298
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 4 found with eigenvalue 0.1998618662480472
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 5 found with eigenvalue 0.16721795126225025
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 6 found with eigenvalue 0.1421009619690392
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 7 found with eigenvalue 0.12573880090650955
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 8 found with eigenvalue 0.10977215057216241
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 9 found with eigenvalue 0.10068595658458886
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 10 found with eigenvalue 0.09160975884532054
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 11 found with eigenvalue 0.08449647081109042
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 12 found with eigenvalue 0.0772188365204358
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 13 found with eigenvalue 0.07280721481540602
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 14 found with eigenvalue 0.06533860591514284
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 15 found with eigenvalue 0.06198243096363415
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 16 found with eigenvalue 0.05750699459886665
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 17 found with eigenvalue 0.05492840738532377
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 18 found with eigenvalue 0.05276571349212622
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 19 found with eigenvalue 0.05053293608192887
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 20 found with eigenvalue 0.048241819663486805
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 21 found with eigenvalue 0.045341544101347615
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 22 found with eigenvalue 0.04324060397941256
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 23 found with eigenvalue 0.04117187015755446
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 24 found with eigenvalue 0.03987441099002258
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 25 found with eigenvalue 0.039193530567093564
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 26 found with eigenvalue 0.036420791136491
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 27 found with eigenvalue 0.035276832401787285
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 28 found with eigenvalue 0.0348426355262627
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 29 found with eigenvalue 0.03300575502311877
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 30 found with eigenvalue 0.03141858148935687
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 31 found with eigenvalue 0.030506879722488722
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 32 found with eigenvalue 0.028449626001396534
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 33 found with eigenvalue 0.027556650859469237
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 34 found with eigenvalue 0.025323972333385653
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 35 found with eigenvalue 0.024360745632311453
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 36 found with eigenvalue 0.023266937951795626
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 37 found with eigenvalue 0.021598314700239974
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 38 found with eigenvalue 0.019269424836335067
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 39 found with eigenvalue 0.017192080673532503
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 40 found with eigenvalue 0.015613504588346858
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 41 found with eigenvalue 0.013849968657235475
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 42 found with eigenvalue 0.011756549877919926
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 43 found with eigenvalue 0.00972939632824258
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 44 found with eigenvalue 0.0080567593535376
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 45 found with eigenvalue 0.006362588475012025
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 46 found with eigenvalue 0.004434549667320527
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 47 found with eigenvalue 0.0026380674128377523
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 48 found with eigenvalue 0.0012834677500674612
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 49 found with eigenvalue 0.0
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: LanczosSolver finished.
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.SolverTest info
+INFO: the eigen-error: -1.5543122344752192E-15 for eigen 0
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.SolverTest info
+INFO: the eigen-error: -2.220446049250313E-16 for eigen 1
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.SolverTest info
+INFO: the eigen-error: 7.771561172376096E-16 for eigen 2
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.SolverTest info
+INFO: the eigen-error: 2.220446049250313E-16 for eigen 3
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.SolverTest info
+INFO: the eigen-error: 0.0 for eigen 4
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.SolverTest info
+INFO: the eigen-error: 1.6653345369377348E-15 for eigen 5
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.SolverTest info
+INFO: the eigen-error: 2.220446049250313E-16 for eigen 6
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.SolverTest info
+INFO: the eigen-error: -4.440892098500626E-16 for eigen 7
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.SolverTest info
+INFO: the eigen-error: -4.440892098500626E-16 for eigen 8
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.SolverTest info
+INFO: the eigen-error: -1.1102230246251565E-15 for eigen 9
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.SolverTest info
+INFO: the eigen-error: -1.5543122344752192E-15 for eigen 10
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.SolverTest info
+INFO: the eigen-error: 9.992007221626409E-16 for eigen 11
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.SolverTest info
+INFO: the eigen-error: -4.440892098500626E-16 for eigen 12
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.SolverTest info
+INFO: the eigen-error: -2.220446049250313E-16 for eigen 13
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.SolverTest info
+INFO: the eigen-error: 2.220446049250313E-16 for eigen 14
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.SolverTest info
+INFO: the eigen-error: 2.220446049250313E-16 for eigen 15
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.SolverTest info
+INFO: the eigen-error: -2.220446049250313E-16 for eigen 16
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.SolverTest info
+INFO: the eigen-error: -2.220446049250313E-16 for eigen 17
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.SolverTest info
+INFO: the eigen-error: -6.661338147750939E-16 for eigen 18
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.SolverTest info
+INFO: the eigen-error: 0.0 for eigen 19
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.SolverTest info
+INFO: the eigen-error: 2.220446049250313E-16 for eigen 20
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.SolverTest info
+INFO: the eigen-error: 0.0 for eigen 21
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.SolverTest info
+INFO: the eigen-error: -1.3322676295501878E-15 for eigen 22
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.SolverTest info
+INFO: the eigen-error: 1.4865886299730846E-13 for eigen 23
+Apr 07, 2016 5:34:17 PM org.apache.mahout.math.decomposer.SolverTest info
+INFO: the eigen-error: 3.3433811275074277E-11 for eigen 24
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Finding 30 singular vectors of matrix with 500 rows, via Lanczos
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 1 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 2 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 3 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 4 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 5 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 6 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 7 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 8 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 9 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 10 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 11 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 12 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 13 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 14 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 15 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 16 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 17 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 18 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 19 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 20 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 21 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 22 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 23 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 24 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 25 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 26 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 27 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 28 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 29 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Lanczos iteration complete - now to diagonalize the tri-diagonal auxiliary matrix.
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 0 found with eigenvalue 1.0007899614201043
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 1 found with eigenvalue 0.25027134049683925
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 2 found with eigenvalue 0.11220837646354843
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 3 found with eigenvalue 0.06253134030977722
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 4 found with eigenvalue 0.039943400180166615
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 5 found with eigenvalue 0.027960451096460986
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 6 found with eigenvalue 0.020191273208804927
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 7 found with eigenvalue 0.01580864718712629
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 8 found with eigenvalue 0.012048425604557683
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 9 found with eigenvalue 0.010136094441482061
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 10 found with eigenvalue 0.008391049374921222
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 11 found with eigenvalue 0.0071379906835054826
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 12 found with eigenvalue 0.005961261899693508
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 13 found with eigenvalue 0.005299297605810887
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 14 found with eigenvalue 0.004267603969767171
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 15 found with eigenvalue 0.0038401549710161214
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 16 found with eigenvalue 0.0032045025421512416
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 17 found with eigenvalue 0.002930335005739324
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 18 found with eigenvalue 0.00268603233998313
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 19 found with eigenvalue 0.002130589015607488
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 20 found with eigenvalue 0.0017410062981313274
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 21 found with eigenvalue 0.0014767995192015082
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 22 found with eigenvalue 0.001036473733608028
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 23 found with eigenvalue 8.026817366541955E-4
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 24 found with eigenvalue 5.35389667226183E-4
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 25 found with eigenvalue 3.0143707447315263E-4
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 26 found with eigenvalue 1.3211039225112243E-4
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 27 found with eigenvalue 4.270978349720664E-5
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 28 found with eigenvalue 3.6916148845599774E-6
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 29 found with eigenvalue 0.0
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: LanczosSolver finished.
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Finding 80 singular vectors of matrix with 100 rows, via Lanczos
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 1 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 2 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 3 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 4 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 5 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 6 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 7 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 8 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 9 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 10 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 11 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 12 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 13 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 14 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 15 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 16 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 17 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 18 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 19 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 20 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 21 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 22 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 23 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 24 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 25 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 26 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 27 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 28 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 29 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 30 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 31 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 32 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 33 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 34 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 35 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 36 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 37 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 38 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 39 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 40 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 41 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 42 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 43 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 44 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 45 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 46 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 47 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 48 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 49 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 50 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 51 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 52 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 53 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 54 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 55 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 56 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 57 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 58 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 59 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 60 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 61 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 62 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 63 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 64 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 65 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 66 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 67 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 68 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 69 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 70 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 71 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 72 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 73 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 74 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 75 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 76 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 77 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 78 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: 79 passes through the corpus so far...
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Lanczos iteration complete - now to diagonalize the tri-diagonal auxiliary matrix.
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 0 found with eigenvalue 1.0027707094691873
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 1 found with eigenvalue 0.2582030542335118
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 2 found with eigenvalue 0.11229610479966325
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 3 found with eigenvalue 0.05972738806000627
+Apr 07, 2016 5:34:19 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 4 found with eigenvalue 0.040018752323325864
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 5 found with eigenvalue 0.028380654155965183
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 6 found with eigenvalue 0.020766567913587657
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 7 found with eigenvalue 0.014415772799915794
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 8 found with eigenvalue 0.01285169500292306
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 9 found with eigenvalue 0.010872248978212597
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 10 found with eigenvalue 0.008012142442610516
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 11 found with eigenvalue 0.007220343695634625
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 12 found with eigenvalue 0.006135656626477373
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 13 found with eigenvalue 0.0054152179973131565
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 14 found with eigenvalue 0.004085905862219158
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 15 found with eigenvalue 0.0037470785485304247
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 16 found with eigenvalue 0.00335952668889872
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 17 found with eigenvalue 0.00306665412145858
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 18 found with eigenvalue 0.002604618123082183
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 19 found with eigenvalue 0.0024373818311816935
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 20 found with eigenvalue 0.002258339460829023
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 21 found with eigenvalue 0.001878179911915666
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 22 found with eigenvalue 0.001633871781808669
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 23 found with eigenvalue 0.0015374557767098083
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 24 found with eigenvalue 0.0013380373697749017
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 25 found with eigenvalue 0.0013106024327802811
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 26 found with eigenvalue 0.0011960175551677945
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 27 found with eigenvalue 0.001120005564895002
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 28 found with eigenvalue 0.0010096179469811309
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 29 found with eigenvalue 8.963100965933827E-4
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 30 found with eigenvalue 8.755189656501869E-4
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 31 found with eigenvalue 8.32644676243956E-4
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 32 found with eigenvalue 7.873658415106227E-4
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 33 found with eigenvalue 7.471508093112325E-4
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 34 found with eigenvalue 7.191266984807426E-4
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 35 found with eigenvalue 6.30724812873384E-4
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 36 found with eigenvalue 6.282913849806021E-4
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 37 found with eigenvalue 5.66143197011959E-4
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 38 found with eigenvalue 5.388796867166954E-4
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 39 found with eigenvalue 5.271617146506057E-4
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 40 found with eigenvalue 4.988689909242643E-4
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 41 found with eigenvalue 4.4163554936529805E-4
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 42 found with eigenvalue 4.166259069616226E-4
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 43 found with eigenvalue 4.075226915331533E-4
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 44 found with eigenvalue 3.7337509487741035E-4
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 45 found with eigenvalue 3.4512196552544464E-4
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 46 found with eigenvalue 3.3440199316892363E-4
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 47 found with eigenvalue 3.0923778901364204E-4
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 48 found with eigenvalue 2.8931169744551805E-4
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 49 found with eigenvalue 2.7856369987782964E-4
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 50 found with eigenvalue 2.642485845343027E-4
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 51 found with eigenvalue 2.571116886230465E-4
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 52 found with eigenvalue 2.406031249208246E-4
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 53 found with eigenvalue 2.279535553012902E-4
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 54 found with eigenvalue 2.078364292642642E-4
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 55 found with eigenvalue 1.9743669727331553E-4
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 56 found with eigenvalue 1.8860138868162103E-4
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 57 found with eigenvalue 1.791703963035035E-4
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 58 found with eigenvalue 1.588331053867575E-4
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 59 found with eigenvalue 1.4980127779751332E-4
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 60 found with eigenvalue 1.3619260851797468E-4
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 61 found with eigenvalue 1.3013646116904367E-4
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 62 found with eigenvalue 1.1434543452192604E-4
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 63 found with eigenvalue 9.988637781285721E-5
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 64 found with eigenvalue 8.475898830958795E-5
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 65 found with eigenvalue 7.506064462459931E-5
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 66 found with eigenvalue 6.547097290861853E-5
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 67 found with eigenvalue 5.63579075887121E-5
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 68 found with eigenvalue 4.952658946450845E-5
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 69 found with eigenvalue 4.127048134683644E-5
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 70 found with eigenvalue 2.8413112990830624E-5
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 71 found with eigenvalue 2.3911673694250246E-5
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 72 found with eigenvalue 1.725656047918668E-5
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 73 found with eigenvalue 1.2650725817923499E-5
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 74 found with eigenvalue 8.188457529572732E-6
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 75 found with eigenvalue 5.674536236008488E-6
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 76 found with eigenvalue 2.4511076502347024E-6
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 77 found with eigenvalue 8.93786387194942E-7
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 78 found with eigenvalue 2.046292131205252E-7
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: Eigenvector 79 found with eigenvalue 0.0
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.LanczosSolver info
+INFO: LanczosSolver finished.
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: 0 : L = 1.0027707094691873, E = 1.0027707094691871
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: error: -2.220446049250313E-16
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: 1 : L = 0.2582030542335118, E = 0.25820305423351164
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: error: -2.220446049250313E-16
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: 2 : L = 0.11229610479966325, E = 0.1122961047996629
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: error: 0.0
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: 3 : L = 0.05972738806000627, E = 0.059727388060006305
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: error: -2.220446049250313E-16
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: 4 : L = 0.040018752323325864, E = 0.040018752323325746
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: error: -2.220446049250313E-16
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: 5 : L = 0.028380654155965183, E = 0.028380654155965024
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: error: -2.220446049250313E-16
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: 6 : L = 0.020766567913587657, E = 0.02076656791358767
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: error: -2.220446049250313E-16
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: 7 : L = 0.014415772799915794, E = 0.014415772799915768
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: error: -4.440892098500626E-16
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: 8 : L = 0.01285169500292306, E = 0.012851695002922962
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: error: 0.0
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: 9 : L = 0.010872248978212597, E = 0.01087224897821255
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: error: -2.220446049250313E-16
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: 10 : L = 0.008012142442610516, E = 0.008012142442610518
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: error: -4.440892098500626E-16
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: 11 : L = 0.007220343695634625, E = 0.007220343695634618
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: error: -6.661338147750939E-16
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: 12 : L = 0.006135656626477373, E = 0.006135656626477356
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: error: 5.551115123125783E-16
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: 13 : L = 0.0054152179973131565, E = 0.005415217997313148
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: error: 2.220446049250313E-16
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: 14 : L = 0.004085905862219158, E = 0.004085905862219156
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: error: -2.220446049250313E-16
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: 15 : L = 0.0037470785485304247, E = 0.003747078548530413
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: error: 2.220446049250313E-16
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: 16 : L = 0.00335952668889872, E = 0.0033595266888987226
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: error: 0.0
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: 17 : L = 0.00306665412145858, E = 0.0030666541214585904
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: error: -4.440892098500626E-16
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: 18 : L = 0.002604618123082183, E = 0.002604618123082181
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: error: 4.440892098500626E-16
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: 19 : L = 0.0024373818311816935, E = 0.002437381831181695
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: error: 0.0
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: 20 : L = 0.002258339460829023, E = 0.0022583394608290197
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: error: -4.440892098500626E-16
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: 21 : L = 0.001878179911915666, E = 0.0018781799119156654
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: error: -4.440892098500626E-16
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: 22 : L = 0.001633871781808669, E = 0.0016338717818086654
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: error: -4.440892098500626E-16
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: 23 : L = 0.0015374557767098083, E = 0.0015374557767098113
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: error: -4.440892098500626E-16
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: 24 : L = 0.0013380373697749017, E = 0.0013380373697749013
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: error: -2.220446049250313E-16
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: 25 : L = 0.0013106024327802811, E = 0.0013106024327802768
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: error: -4.440892098500626E-16
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: 26 : L = 0.0011960175551677945, E = 0.0011960175551677871
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: error: 0.0
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: 27 : L = 0.001120005564895002, E = 0.0011200055648950022
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: error: -2.220446049250313E-16
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: 28 : L = 0.0010096179469811309, E = 0.0010096179469811272
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: error: 1.1102230246251565E-16
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: 29 : L = 8.963100965933827E-4, E = 8.963100965933763E-4
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: error: 4.440892098500626E-16
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: 30 : L = 8.755189656501869E-4, E = 8.755189656501763E-4
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: error: -4.440892098500626E-16
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: 31 : L = 8.32644676243956E-4, E = 8.326446762439527E-4
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: error: -2.220446049250313E-16
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: 32 : L = 7.873658415106227E-4, E = 7.873658415106189E-4
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: error: -6.661338147750939E-16
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: 33 : L = 7.471508093112325E-4, E = 7.471508093112298E-4
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: error: -2.220446049250313E-16
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: 34 : L = 7.191266984807426E-4, E = 7.191266984807375E-4
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: error: -4.440892098500626E-16
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: 35 : L = 6.30724812873384E-4, E = 6.307248128733844E-4
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: error: 0.0
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: 36 : L = 6.282913849806021E-4, E = 6.282913849806005E-4
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: error: 0.0
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: 37 : L = 5.66143197011959E-4, E = 5.6614319701195E-4
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: error: -6.661338147750939E-16
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: 38 : L = 5.388796867166954E-4, E = 5.38879686716683E-4
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: error: 2.220446049250313E-16
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: 39 : L = 5.271617146506057E-4, E = 5.271617146505988E-4
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: error: -2.220446049250313E-16
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: 40 : L = 4.988689909242643E-4, E = 4.988689909242616E-4
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: error: -2.220446049250313E-16
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: 41 : L = 4.4163554936529805E-4, E = 4.416355493652949E-4
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: error: 1.1102230246251565E-16
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: 42 : L = 4.166259069616226E-4, E = 4.1662590696162256E-4
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: error: 1.1102230246251565E-16
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: 43 : L = 4.075226915331533E-4, E = 4.0752269153323384E-4
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: error: 1.566524687746096E-13
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: 44 : L = 3.7337509487741035E-4, E = 3.733750948774078E-4
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: error: -4.440892098500626E-16
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: 45 : L = 3.4512196552544464E-4, E = 3.451219655255472E-4
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: error: 2.6711965972481266E-13
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: 46 : L = 3.3440199316892363E-4, E = 3.344019931868172E-4
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: error: 4.811284703976071E-11
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: 47 : L = 3.0923778901364204E-4, E = 3.0923779063577036E-4
+Apr 07, 2016 5:34:20 PM org.apache.mahout.math.decomposer.lanczos.TestLanczosSolver info
+INFO: error: 5.273936620753261E-9

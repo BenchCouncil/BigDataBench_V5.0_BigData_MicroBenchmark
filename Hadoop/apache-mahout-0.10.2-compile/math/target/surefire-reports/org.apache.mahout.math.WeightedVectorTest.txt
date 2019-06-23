@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.apache.mahout.math.WeightedVectorTest
+-------------------------------------------------------------------------------
+Tests run: 45, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.945 sec - in org.apache.mahout.math.WeightedVectorTest

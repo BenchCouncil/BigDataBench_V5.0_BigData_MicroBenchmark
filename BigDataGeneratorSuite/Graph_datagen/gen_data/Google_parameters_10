@@ -1,0 +1,10 @@
+# Directed graph: ./gen_data/Google_genGraph_10.txt 
+# Kronecker Graph: seed matrix [0.8305 0.5573; 0.4638 0.3021]
+# Each Number representatives a Node
+# FromNodeId	ToNodeId
+266	387
+564	193
+872	1
+361	963
+272	730
+533	73

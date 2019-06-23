@@ -1,0 +1,10 @@
+*.swp
+*~
+target/
+.cache
+.classpath
+.project
+.settings/
+.idea
+*.iml
+lib

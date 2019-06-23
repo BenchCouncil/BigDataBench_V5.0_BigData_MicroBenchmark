@@ -1,0 +1,20 @@
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/home/ubuntu15/.m2/repository/org/slf4j/slf4j-log4j12/1.7.12/slf4j-log4j12-1.7.12.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/home/ubuntu15/.m2/repository/org/slf4j/slf4j-jcl/1.7.12/slf4j-jcl-1.7.12.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.impl.Log4jLoggerFactory]
+log4j:WARN No appenders could be found for logger (org.apache.mahout.clustering.lda.cvb.InMemoryCollapsedVariationalBayes0).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+2.0347206703685465
+[2.0347206703685465]
+2.0082106892957223
+[2.0082106892957223]
+2.0038720085323667
+[2.0038720085323667]
+2.0079840339365393
+[2.0079840339365393]
+2.0092540207109817
+[2.0092540207109817]
+2.0347206703685465,2.0082106892957223,2.0038720085323667,2.0079840339365393,2.0092540207109817
+Perplexities: 95.67276140197765, 95.0440441824399, 94.82643159384253

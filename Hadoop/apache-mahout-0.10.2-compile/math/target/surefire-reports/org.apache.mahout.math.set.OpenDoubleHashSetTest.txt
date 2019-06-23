@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.apache.mahout.math.set.OpenDoubleHashSetTest
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.09 sec - in org.apache.mahout.math.set.OpenDoubleHashSetTest

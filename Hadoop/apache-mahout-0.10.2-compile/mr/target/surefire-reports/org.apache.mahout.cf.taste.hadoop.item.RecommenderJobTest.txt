@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.apache.mahout.cf.taste.hadoop.item.RecommenderJobTest
+-------------------------------------------------------------------------------
+Tests run: 21, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 37.858 sec - in org.apache.mahout.cf.taste.hadoop.item.RecommenderJobTest

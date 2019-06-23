@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite 
+errors="0" failures="0" hostname="ubuntu15" name="org.apache.mahout.math.scalabindings.MathSuite" tests="12" time="0.399" timestamp="2016-04-07T18:26:17">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment">
+    </property>
+    <property 
+    name="sun.boot.library.path" value="/home/gwl/jdk1.7.0_80/jre/lib/amd64">
+</property>
+    <property name="java.vm.version" value="24.80-b11"> </property>
+    <property name="java.vm.vendor" value="Oracle Corporation"> </property>
+    <property name="java.vendor.url" value="http://java.oracle.com/">
+    </property>
+    <property name="path.separator" value=":"> </property>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM">
+    </property>
+    <property name="file.encoding.pkg" value="sun.io"> </property>
+    <property name="user.country" value="HK"> </property>
+    <property name="sun.java.launcher" value="SUN_STANDARD"> </property>
+    <property name="sun.os.patch.level" value="unknown"> </property>
+    <property 
+    name="java.vm.specification.name" value="Java Virtual Machine Specification">
+</property>
+    <property 
+    name="user.dir" value="/home/gwl/apache-mahout-distribution-0.10.2/math-scala">
+</property>
+    <property name="java.runtime.version" value="1.7.0_80-b15"> </property>
+    <property 
+    name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment">
+</property>
+    <property 
+    name="basedir" value="/home/gwl/apache-mahout-distribution-0.10.2/math-scala">
+</property>
+    <property 
+    name="java.endorsed.dirs" value="/home/gwl/jdk1.7.0_80/jre/lib/endorsed">
+</property>
+    <property name="os.arch" value="amd64"> </property>
+    <property name="java.io.tmpdir" value="/tmp"> </property>
+    <property name="line.separator" value=" "> </property>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation">
+    </property>
+    <property name="os.name" value="Linux"> </property>
+    <property name="sun.jnu.encoding" value="UTF-8"> </property>
+    <property 
+    name="java.library.path" value="/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib">
+</property>
+    <property 
+    name="java.specification.name" value="Java Platform API Specification">
+</property>
+    <property name="java.class.version" value="51.0"> </property>
+    <property 
+    name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers">
+</property>
+    <property name="os.version" value="3.13.0-24-generic"> </property>
+    <property name="user.home" value="/home/ubuntu15"> </property>
+    <property name="user.timezone" value=""> </property>
+    <property name="java.awt.printerjob" value="sun.print.PSPrinterJob">
+    </property>
+    <property name="file.encoding" value="UTF-8"> </property>
+    <property name="java.specification.version" value="1.7"> </property>
+    <property name="user.name" value="ubuntu15"> </property>
+    <property 
+    name="java.class.path" value="/home/gwl/apache-mahout-distribution-0.10.2/math-scala/target/test-classes:/home/gwl/apache-mahout-distribution-0.10.2/math-scala/target/classes:/home/gwl/apache-mahout-distribution-0.10.2/math/target/mahout-math-0.10.2.jar:/home/ubuntu15/.m2/repository/org/apache/commons/commons-math3/3.2/commons-math3-3.2.jar:/home/ubuntu15/.m2/repository/com/google/guava/guava/14.0.1/guava-14.0.1.jar:/home/ubuntu15/.m2/repository/org/slf4j/slf4j-api/1.7.12/slf4j-api-1.7.12.jar:/home/ubuntu15/.m2/repository/com/tdunning/t-digest/3.1/t-digest-3.1.jar:/home/ubuntu15/.m2/repository/log4j/log4j/1.2.17/log4j-1.2.17.jar:/home/ubuntu15/.m2/repository/com/github/scopt/scopt_2.10/3.3.0/scopt_2.10-3.3.0.jar:/home/ubuntu15/.m2/repository/org/scala-lang/scala-library/2.10.4/scala-library-2.10.4.jar:/home/ubuntu15/.m2/repository/org/scalatest/scalatest_2.10/2.2.4/scalatest_2.10-2.2.4.jar:/home/ubuntu15/.m2/repository/org/scala-lang/scala-reflect/2.10.4/scala-reflect-2.10.4.jar">
+</property>
+    <property name="java.vm.specification.version" value="1.7"> </property>
+    <property name="sun.arch.data.model" value="64"> </property>
+    <property name="java.home" value="/home/gwl/jdk1.7.0_80/jre"> </property>
+    <property 
+    name="sun.java.command" value="org.scalatest.tools.Runner -R /home/gwl/apache-mahout-distribution-0.10.2/math-scala/target/classes /home/gwl/apache-mahout-distribution-0.10.2/math-scala/target/test-classes -o -fWDF /home/gwl/apache-mahout-distribution-0.10.2/math-scala/target/scalatest-reports/TestSuite.txt -u /home/gwl/apache-mahout-distribution-0.10.2/math-scala/target/scalatest-reports/.">
+</property>
+    <property name="java.specification.vendor" value="Oracle Corporation">
+    </property>
+    <property name="user.language" value="en"> </property>
+    <property name="awt.toolkit" value="sun.awt.X11.XToolkit"> </property>
+    <property name="java.vm.info" value="mixed mode"> </property>
+    <property name="java.version" value="1.7.0_80"> </property>
+    <property 
+    name="java.ext.dirs" value="/home/gwl/jdk1.7.0_80/jre/lib/ext:/usr/java/packages/lib/ext">
+</property>
+    <property 
+    name="sun.boot.class.path" value="/home/gwl/jdk1.7.0_80/jre/lib/resources.jar:/home/gwl/jdk1.7.0_80/jre/lib/rt.jar:/home/gwl/jdk1.7.0_80/jre/lib/sunrsasign.jar:/home/gwl/jdk1.7.0_80/jre/lib/jsse.jar:/home/gwl/jdk1.7.0_80/jre/lib/jce.jar:/home/gwl/jdk1.7.0_80/jre/lib/charsets.jar:/home/gwl/jdk1.7.0_80/jre/lib/jfr.jar:/home/gwl/jdk1.7.0_80/jre/classes">
+</property>
+    <property name="java.vendor" value="Oracle Corporation"> </property>
+    <property name="file.separator" value="/"> </property>
+    <property 
+    name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/">
+</property>
+    <property name="sun.cpu.endian" value="little"> </property>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"> </property>
+    <property name="sun.cpu.isalist" value=""> </property>
+  </properties>
+  <testcase 
+  name="chol" classname="org.apache.mahout.math.scalabindings.MathSuite" time="0.01">
+</testcase>
+  <testcase 
+  name="chol2" classname="org.apache.mahout.math.scalabindings.MathSuite" time="0.009">
+</testcase>
+  <testcase 
+  name="qr" classname="org.apache.mahout.math.scalabindings.MathSuite" time="0.01">
+</testcase>
+  <testcase 
+  name="solve matrix-vector" classname="org.apache.mahout.math.scalabindings.MathSuite" time="0.001">
+</testcase>
+  <testcase 
+  name="solve matrix-matrix" classname="org.apache.mahout.math.scalabindings.MathSuite" time="0.001">
+</testcase>
+  <testcase 
+  name="solve to obtain inverse" classname="org.apache.mahout.math.scalabindings.MathSuite" time="0.001">
+</testcase>
+  <testcase 
+  name="solve rejects non-square matrix" classname="org.apache.mahout.math.scalabindings.MathSuite" time="0.001">
+</testcase>
+  <testcase 
+  name="solve rejects singular matrix" classname="org.apache.mahout.math.scalabindings.MathSuite" time="0.0">
+</testcase>
+  <testcase 
+  name="svd" classname="org.apache.mahout.math.scalabindings.MathSuite" time="0.005">
+</testcase>
+  <testcase 
+  name="random uniform" classname="org.apache.mahout.math.scalabindings.MathSuite" time="0.006">
+</testcase>
+  <testcase 
+  name="sqDist(X,Y)" classname="org.apache.mahout.math.scalabindings.MathSuite" time="0.303">
+</testcase>
+  <testcase 
+  name="sqDist(X)" classname="org.apache.mahout.math.scalabindings.MathSuite" time="0.038">
+</testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

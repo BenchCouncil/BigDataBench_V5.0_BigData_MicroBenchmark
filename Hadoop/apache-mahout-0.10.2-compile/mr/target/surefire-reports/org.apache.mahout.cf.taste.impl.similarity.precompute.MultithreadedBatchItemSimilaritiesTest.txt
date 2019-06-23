@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.apache.mahout.cf.taste.impl.similarity.precompute.MultithreadedBatchItemSimilaritiesTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.476 sec - in org.apache.mahout.cf.taste.impl.similarity.precompute.MultithreadedBatchItemSimilaritiesTest

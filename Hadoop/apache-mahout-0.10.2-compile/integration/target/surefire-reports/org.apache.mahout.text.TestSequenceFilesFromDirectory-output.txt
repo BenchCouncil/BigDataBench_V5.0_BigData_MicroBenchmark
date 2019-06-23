@@ -1,0 +1,30 @@
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/home/ubuntu15/.m2/repository/org/slf4j/slf4j-log4j12/1.7.12/slf4j-log4j12-1.7.12.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/home/ubuntu15/.m2/repository/org/slf4j/slf4j-jcl/1.7.12/slf4j-jcl-1.7.12.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.impl.Log4jLoggerFactory]
+log4j:WARN No appenders could be found for logger (org.apache.hadoop.metrics2.lib.MutableMetricsFactory).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+map.put: UID/test1 This is the first text.
+map.put: UID/test2 This is the second text.
+map.put: UID/test3 This is the third text.
+MR> UID/test2 >> This is the second text.
+MR> UID/test3 >> This is the third text.
+MR> UID/test1 >> This is the first text.
+MR-Recur > Trying to check: UID/recursive_test1/recursive_test2/recursive_test3/file.txt
+MR-Recur > Trying to check: UID/recursive_test1/recursive_test2/file.txt
+MR-Recur > Trying to check: UID/recursive_test1/file.txt
+
+
+ ----- recursive dirs: /tmp/mahout-TestSequenceFilesFromDirectory-799314998635695104/inputDirRecur/recursive_test1/recursive_test2/recursive_test3,/tmp/mahout-TestSequenceFilesFromDirectory-799314998635695104/inputDirRecur/recursive_test1/recursive_test2,/tmp/mahout-TestSequenceFilesFromDirectory-799314998635695104/inputDirRecur/recursive_test1
+ ----------- check_Recursive_ChunkFiles ------------
+UID/recursive_test1/file.txt >> This is the first text.
+>>> k: UID/recursive_test1/file.txt, v: This is the first text.
+
+UID/recursive_test1/recursive_test2/recursive_test3/file.txt >> This is the third text.
+>>> k: UID/recursive_test1/recursive_test2/recursive_test3/file.txt, v: This is the third text.
+
+UID/recursive_test1/recursive_test2/file.txt >> This is the second text.
+>>> k: UID/recursive_test1/recursive_test2/file.txt, v: This is the second text.
+

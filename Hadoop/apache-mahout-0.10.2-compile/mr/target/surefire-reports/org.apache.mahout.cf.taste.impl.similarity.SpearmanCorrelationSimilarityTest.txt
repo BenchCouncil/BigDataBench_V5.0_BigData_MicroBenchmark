@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.apache.mahout.cf.taste.impl.similarity.SpearmanCorrelationSimilarityTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.333 sec - in org.apache.mahout.cf.taste.impl.similarity.SpearmanCorrelationSimilarityTest

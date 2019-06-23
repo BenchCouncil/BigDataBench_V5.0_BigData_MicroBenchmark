@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.apache.mahout.classifier.sequencelearning.hmm.HMMAlgorithmsTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.273 sec - in org.apache.mahout.classifier.sequencelearning.hmm.HMMAlgorithmsTest

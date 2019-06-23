@@ -1,0 +1,28 @@
+log4j:WARN No appenders could be found for logger (org.apache.hadoop.metrics2.lib.MutableMetricsFactory).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/home/ubuntu15/.m2/repository/org/slf4j/slf4j-log4j12/1.7.12/slf4j-log4j12-1.7.12.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/home/ubuntu15/.m2/repository/org/slf4j/slf4j-jcl/1.7.12/slf4j-jcl-1.7.12.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.impl.Log4jLoggerFactory]
+Usage:                                                                          
+ [--output <output> --input <input> --idField <idField> --fields <fields>       
+--query <query> --maxHits <maxHits> --method <method> --help --tempDir          
+<tempDir> --startPhase <startPhase> --endPhase <endPhase>]                      
+Job-Specific Options:                                                           
+  --output (-o) output       The directory pathname for output.                 
+  --input (-i) input         Path to job input directory.                       
+  --idField (-id) idField    The field in the index containing the id           
+  --fields (-f) fields       The stored field(s) in the index containing text   
+  --query (-q) query         (Optional) Lucene query. Defaults to               
+                             MatchAllDocsQuery                                  
+  --maxHits (-n) maxHits     (Optional) Max hits. Defaults to 2147483647        
+  --method (-xm) method      The execution method to use: sequential or         
+                             mapreduce. Default is mapreduce                    
+  --help (-h)                Print out help                                     
+  --tempDir tempDir          Intermediate output directory                      
+  --startPhase startPhase    First phase to run                                 
+  --endPhase endPhase        Last phase to run                                  
+Specify HDFS directories while running on hadoop; else specify local file       
+system directories                                                              

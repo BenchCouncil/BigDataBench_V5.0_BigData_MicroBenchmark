@@ -1,0 +1,6 @@
+----------------------------------------------------------------
+2019-04-25 02:17:42.291 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.4.2.0 - (689064): instance a816c00e-016a-5248-c4e7-000021d521f8
+on database directory /home/gwl/BigDataBench5/BigDataBench_V5.0_BigData_MicroBenchmark/Hive/Interactive_MicroBenchmark/metastore_db  
+
+Database Class Loader started - derby.database.classpath=''

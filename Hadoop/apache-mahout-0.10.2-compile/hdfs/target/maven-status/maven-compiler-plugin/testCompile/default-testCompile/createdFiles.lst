@@ -1,0 +1,3 @@
+org/apache/mahout/math/VectorWritableTest.class
+org/apache/mahout/math/MatrixWritableTest.class
+org/apache/mahout/math/VarintTest.class

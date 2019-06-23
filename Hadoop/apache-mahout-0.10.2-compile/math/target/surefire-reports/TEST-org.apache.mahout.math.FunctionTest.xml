@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.mahout.math.FunctionTest" time="0.09" tests="132" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="/home/gwl/jdk1.7.0_80/jre/lib/amd64"/>
+    <property name="java.vm.version" value="24.80-b11"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="/home/gwl/apache-mahout-distribution-0.10.2"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=":"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.country" value="HK"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="/home/gwl/apache-mahout-distribution-0.10.2"/>
+    <property name="java.runtime.version" value="1.7.0_80-b15"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="/home/gwl/jdk1.7.0_80/jre/lib/endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="/tmp"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="os.name" value="Linux"/>
+    <property name="classworlds.conf" value="/home/gwl/apache-maven-3.3.9/bin/m2.conf"/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.library.path" value="/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="51.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="3.13.0-24-generic"/>
+    <property name="user.home" value="/home/ubuntu15"/>
+    <property name="user.timezone" value="Asia/Hong_Kong"/>
+    <property name="java.awt.printerjob" value="sun.print.PSPrinterJob"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.specification.version" value="1.7"/>
+    <property name="user.name" value="ubuntu15"/>
+    <property name="java.class.path" value="/home/gwl/apache-maven-3.3.9/boot/plexus-classworlds-2.5.2.jar"/>
+    <property name="java.vm.specification.version" value="1.7"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="/home/gwl/jdk1.7.0_80/jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher install"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.7.0_80"/>
+    <property name="java.ext.dirs" value="/home/gwl/jdk1.7.0_80/jre/lib/ext:/usr/java/packages/lib/ext"/>
+    <property name="securerandom.source" value="file:/dev/./urandom"/>
+    <property name="sun.boot.class.path" value="/home/gwl/jdk1.7.0_80/jre/lib/resources.jar:/home/gwl/jdk1.7.0_80/jre/lib/rt.jar:/home/gwl/jdk1.7.0_80/jre/lib/sunrsasign.jar:/home/gwl/jdk1.7.0_80/jre/lib/jsse.jar:/home/gwl/jdk1.7.0_80/jre/lib/jce.jar:/home/gwl/jdk1.7.0_80/jre/lib/charsets.jar:/home/gwl/jdk1.7.0_80/jre/lib/jfr.jar:/home/gwl/jdk1.7.0_80/jre/classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="/home/gwl/apache-maven-3.3.9"/>
+    <property name="file.separator" value="/"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.cpu.isalist" value=""/>
+  </properties>
+  <testcase name="testIsDensifying[0]" classname="org.apache.mahout.math.FunctionTest" time="0.001"/>
+  <testcase name="testIsLikeLeftMult[0]" classname="org.apache.mahout.math.FunctionTest" time="0"/>
+  <testcase name="testIsCommutative[0]" classname="org.apache.mahout.math.FunctionTest" time="0.001"/>
+  <testcase name="testIsLikeRightMult[0]" classname="org.apache.mahout.math.FunctionTest" time="0"/>
+  <testcase name="testIsLikeRightPlus[0]" classname="org.apache.mahout.math.FunctionTest" time="0"/>
+  <testcase name="testIsAssociative[0]" classname="org.apache.mahout.math.FunctionTest" time="0.001"/>
+  <testcase name="testIsDensifying[1]" classname="org.apache.mahout.math.FunctionTest" time="0"/>
+  <testcase name="testIsLikeLeftMult[1]" classname="org.apache.mahout.math.FunctionTest" time="0"/>
+  <testcase name="testIsCommutative[1]" classname="org.apache.mahout.math.FunctionTest" time="0.001"/>
+  <testcase name="testIsLikeRightMult[1]" classname="org.apache.mahout.math.FunctionTest" time="0"/>
+  <testcase name="testIsLikeRightPlus[1]" classname="org.apache.mahout.math.FunctionTest" time="0"/>
+  <testcase name="testIsAssociative[1]" classname="org.apache.mahout.math.FunctionTest" time="0.001"/>
+  <testcase name="testIsDensifying[2]" classname="org.apache.mahout.math.FunctionTest" time="0"/>
+  <testcase name="testIsLikeLeftMult[2]" classname="org.apache.mahout.math.FunctionTest" time="0.001"/>
+  <testcase name="testIsCommutative[2]" classname="org.apache.mahout.math.FunctionTest" time="0"/>
+  <testcase name="testIsLikeRightMult[2]" classname="org.apache.mahout.math.FunctionTest" time="0"/>
+  <testcase name="testIsLikeRightPlus[2]" classname="org.apache.mahout.math.FunctionTest" time="0"/>
+  <testcase name="testIsAssociative[2]" classname="org.apache.mahout.math.FunctionTest" time="0"/>
+  <testcase name="testIsDensifying[3]" classname="org.apache.mahout.math.FunctionTest" time="0.008"/>
+  <testcase name="testIsLikeLeftMult[3]" classname="org.apache.mahout.math.FunctionTest" time="0.003"/>
+  <testcase name="testIsCommutative[3]" classname="org.apache.mahout.math.FunctionTest" time="0.001"/>
+  <testcase name="testIsLikeRightMult[3]" classname="org.apache.mahout.math.FunctionTest" time="0.001"/>
+  <testcase name="testIsLikeRightPlus[3]" classname="org.apache.mahout.math.FunctionTest" time="0.001"/>
+  <testcase name="testIsAssociative[3]" classname="org.apache.mahout.math.FunctionTest" time="0.001"/>
+  <testcase name="testIsDensifying[4]" classname="org.apache.mahout.math.FunctionTest" time="0"/>
+  <testcase name="testIsLikeLeftMult[4]" classname="org.apache.mahout.math.FunctionTest" time="0.003"/>
+  <testcase name="testIsCommutative[4]" classname="org.apache.mahout.math.FunctionTest" time="0"/>
+  <testcase name="testIsLikeRightMult[4]" classname="org.apache.mahout.math.FunctionTest" time="0"/>
+  <testcase name="testIsLikeRightPlus[4]" classname="org.apache.mahout.math.FunctionTest" time="0"/>
+  <testcase name="testIsAssociative[4]" classname="org.apache.mahout.math.FunctionTest" time="0.001"/>
+  <testcase name="testIsDensifying[5]" classname="org.apache.mahout.math.FunctionTest" time="0.001"/>
+  <testcase name="testIsLikeLeftMult[5]" classname="org.apache.mahout.math.FunctionTest" time="0"/>
+  <testcase name="testIsCommutative[5]" classname="org.apache.mahout.math.FunctionTest" time="0"/>
+  <testcase name="testIsLikeRightMult[5]" classname="org.apache.mahout.math.FunctionTest" time="0"/>
+  <testcase name="testIsLikeRightPlus[5]" classname="org.apache.mahout.math.FunctionTest" time="0"/>
+  <testcase name="testIsAssociative[5]" classname="org.apache.mahout.math.FunctionTest" time="0.001"/>
+  <testcase name="testIsDensifying[6]" classname="org.apache.mahout.math.FunctionTest" time="0.001"/>
+  <testcase name="testIsLikeLeftMult[6]" classname="org.apache.mahout.math.FunctionTest" time="0"/>
+  <testcase name="testIsCommutative[6]" classname="org.apache.mahout.math.FunctionTest" time="0"/>
+  <testcase name="testIsLikeRightMult[6]" classname="org.apache.mahout.math.FunctionTest" time="0"/>
+  <testcase name="testIsLikeRightPlus[6]" classname="org.apache.mahout.math.FunctionTest" time="0"/>
+  <testcase name="testIsAssociative[6]" classname="org.apache.mahout.math.FunctionTest" time="0.001"/>
+  <testcase name="testIsDensifying[7]" classname="org.apache.mahout.math.FunctionTest" time="0.001"/>
+  <testcase name="testIsLikeLeftMult[7]" classname="org.apache.mahout.math.FunctionTest" time="0"/>
+  <testcase name="testIsCommutative[7]" classname="org.apache.mahout.math.FunctionTest" time="0"/>
+  <testcase name="testIsLikeRightMult[7]" classname="org.apache.mahout.math.FunctionTest" time="0"/>
+  <testcase name="testIsLikeRightPlus[7]" classname="org.apache.mahout.math.FunctionTest" time="0.001"/>
+  <testcase name="testIsAssociative[7]" classname="org.apache.mahout.math.FunctionTest" time="0"/>
+  <testcase name="testIsDensifying[8]" classname="org.apache.mahout.math.FunctionTest" time="0"/>
+  <testcase name="testIsLikeLeftMult[8]" classname="org.apache.mahout.math.FunctionTest" time="0"/>
+  <testcase name="testIsCommutative[8]" classname="org.apache.mahout.math.FunctionTest" time="0"/>
+  <testcase name="testIsLikeRightMult[8]" classname="org.apache.mahout.math.FunctionTest" time="0"/>
+  <testcase name="testIsLikeRightPlus[8]" classname="org.apache.mahout.math.FunctionTest" time="0"/>
+  <testcase name="testIsAssociative[8]" classname="org.apache.mahout.math.FunctionTest" time="0.007"/>
+  <testcase name="testIsDensifying[9]" classname="org.apache.mahout.math.FunctionTest" time="0"/>
+  <testcase name="testIsLikeLeftMult[9]" classname="org.apache.mahout.math.FunctionTest" time="0"/>
+  <testcase name="testIsCommutative[9]" classname="org.apache.mahout.math.FunctionTest" time="0.001"/>
+  <testcase name="testIsLikeRightMult[9]" classname="org.apache.mahout.math.FunctionTest" time="0"/>
+  <testcase name="testIsLikeRightPlus[9]" classname="org.apache.mahout.math.FunctionTest" time="0.001"/>
+  <testcase name="testIsAssociative[9]" classname="org.apache.mahout.math.FunctionTest" time="0.001"/>
+  <testcase name="testIsDensifying[10]" classname="org.apache.mahout.math.FunctionTest" time="0"/>
+  <testcase name="testIsLikeLeftMult[10]" classname="org.apache.mahout.math.FunctionTest" time="0"/>
+  <testcase name="testIsCommutative[10]" classname="org.apache.mahout.math.FunctionTest" time="0.001"/>
+  <testcase name="testIsLikeRightMult[10]" classname="org.apache.mahout.math.FunctionTest" time="0.001"/>
+  <testcase name="testIsLikeRightPlus[10]" classname="org.apache.mahout.math.FunctionTest" time="0"/>
+  <testcase name="testIsAssociative[10]" classname="org.apache.mahout.math.FunctionTest" time="0.001"/>
+  <testcase name="testIsDensifying[11]" classname="org.apache.mahout.math.FunctionTest" time="0"/>
+  <testcase name="testIsLikeLeftMult[11]" classname="org.apache.mahout.math.FunctionTest" time="0"/>
+  <testcase name="testIsCommutative[11]" classname="org.apache.mahout.math.FunctionTest" time="0.001"/>
+  <testcase name="testIsLikeRightMult[11]" classname="org.apache.mahout.math.FunctionTest" time="0"/>
+  <testcase name="testIsLikeRightPlus[11]" classname="org.apache.mahout.math.FunctionTest" time="0"/>
+  <testcase name="testIsAssociative[11]" classname="org.apache.mahout.math.FunctionTest" time="0"/>
+  <testcase name="testIsDensifying[12]" classname="org.apache.mahout.math.FunctionTest" time="0"/>
+  <testcase name="testIsLikeLeftMult[12]" classname="org.apache.mahout.math.FunctionTest" time="0"/>
+  <testcase name="testIsCommutative[12]" classname="org.apache.mahout.math.FunctionTest" time="0.001"/>
+  <testcase name="testIsLikeRightMult[12]" classname="org.apache.mahout.math.FunctionTest" time="0.001"/>
+  <testcase name="testIsLikeRightPlus[12]" classname="org.apache.mahout.math.FunctionTest" time="0"/>
+  <testcase name="testIsAssociative[12]" classname="org.apache.mahout.math.FunctionTest" time="0"/>
+  <testcase name="testIsDensifying[13]" classname="org.apache.mahout.math.FunctionTest" time="0.011"/>
+  <testcase name="testIsLikeLeftMult[13]" classname="org.apache.mahout.math.FunctionTest" time="0"/>
+  <testcase name="testIsCommutative[13]" classname="org.apache.mahout.math.FunctionTest" time="0.001"/>
+  <testcase name="testIsLikeRightMult[13]" classname="org.apache.mahout.math.FunctionTest" time="0"/>
+  <testcase name="testIsLikeRightPlus[13]" classname="org.apache.mahout.math.FunctionTest" time="0"/>
+  <testcase name="testIsAssociative[13]" classname="org.apache.mahout.math.FunctionTest" time="0"/>
+  <testcase name="testIsDensifying[14]" classname="org.apache.mahout.math.FunctionTest" time="0"/>
+  <testcase name="testIsLikeLeftMult[14]" classname="org.apache.mahout.math.FunctionTest" time="0.001"/>
+  <testcase name="testIsCommutative[14]" classname="org.apache.mahout.math.FunctionTest" time="0.001"/>
+  <testcase name="testIsLikeRightMult[14]" classname="org.apache.mahout.math.FunctionTest" time="0"/>
+  <testcase name="testIsLikeRightPlus[14]" classname="org.apache.mahout.math.FunctionTest" time="0"/>
+  <testcase name="testIsAssociative[14]" classname="org.apache.mahout.math.FunctionTest" time="0.002"/>
+  <testcase name="testIsDensifying[15]" classname="org.apache.mahout.math.FunctionTest" time="0.002"/>
+  <testcase name="testIsLikeLeftMult[15]" classname="org.apache.mahout.math.FunctionTest" time="0.001"/>
+  <testcase name="testIsCommutative[15]" classname="org.apache.mahout.math.FunctionTest" time="0.002"/>
+  <testcase name="testIsLikeRightMult[15]" classname="org.apache.mahout.math.FunctionTest" time="0.001"/>
+  <testcase name="testIsLikeRightPlus[15]" classname="org.apache.mahout.math.FunctionTest" time="0.002"/>
+  <testcase name="testIsAssociative[15]" classname="org.apache.mahout.math.FunctionTest" time="0.003"/>
+  <testcase name="testIsDensifying[16]" classname="org.apache.mahout.math.FunctionTest" time="0.002"/>
+  <testcase name="testIsLikeLeftMult[16]" classname="org.apache.mahout.math.FunctionTest" time="0.001"/>
+  <testcase name="testIsCommutative[16]" classname="org.apache.mahout.math.FunctionTest" time="0.001"/>
+  <testcase name="testIsLikeRightMult[16]" classname="org.apache.mahout.math.FunctionTest" time="0"/>
+  <testcase name="testIsLikeRightPlus[16]" classname="org.apache.mahout.math.FunctionTest" time="0.001"/>
+  <testcase name="testIsAssociative[16]" classname="org.apache.mahout.math.FunctionTest" time="0.002"/>
+  <testcase name="testIsDensifying[17]" classname="org.apache.mahout.math.FunctionTest" time="0.001"/>
+  <testcase name="testIsLikeLeftMult[17]" classname="org.apache.mahout.math.FunctionTest" time="0"/>
+  <testcase name="testIsCommutative[17]" classname="org.apache.mahout.math.FunctionTest" time="0.001"/>
+  <testcase name="testIsLikeRightMult[17]" classname="org.apache.mahout.math.FunctionTest" time="0"/>
+  <testcase name="testIsLikeRightPlus[17]" classname="org.apache.mahout.math.FunctionTest" time="0"/>
+  <testcase name="testIsAssociative[17]" classname="org.apache.mahout.math.FunctionTest" time="0"/>
+  <testcase name="testIsDensifying[18]" classname="org.apache.mahout.math.FunctionTest" time="0.001"/>
+  <testcase name="testIsLikeLeftMult[18]" classname="org.apache.mahout.math.FunctionTest" time="0"/>
+  <testcase name="testIsCommutative[18]" classname="org.apache.mahout.math.FunctionTest" time="0"/>
+  <testcase name="testIsLikeRightMult[18]" classname="org.apache.mahout.math.FunctionTest" time="0.001"/>
+  <testcase name="testIsLikeRightPlus[18]" classname="org.apache.mahout.math.FunctionTest" time="0"/>
+  <testcase name="testIsAssociative[18]" classname="org.apache.mahout.math.FunctionTest" time="0"/>
+  <testcase name="testIsDensifying[19]" classname="org.apache.mahout.math.FunctionTest" time="0"/>
+  <testcase name="testIsLikeLeftMult[19]" classname="org.apache.mahout.math.FunctionTest" time="0.001"/>
+  <testcase name="testIsCommutative[19]" classname="org.apache.mahout.math.FunctionTest" time="0"/>
+  <testcase name="testIsLikeRightMult[19]" classname="org.apache.mahout.math.FunctionTest" time="0.001"/>
+  <testcase name="testIsLikeRightPlus[19]" classname="org.apache.mahout.math.FunctionTest" time="0"/>
+  <testcase name="testIsAssociative[19]" classname="org.apache.mahout.math.FunctionTest" time="0"/>
+  <testcase name="testIsDensifying[20]" classname="org.apache.mahout.math.FunctionTest" time="0"/>
+  <testcase name="testIsLikeLeftMult[20]" classname="org.apache.mahout.math.FunctionTest" time="0.001"/>
+  <testcase name="testIsCommutative[20]" classname="org.apache.mahout.math.FunctionTest" time="0"/>
+  <testcase name="testIsLikeRightMult[20]" classname="org.apache.mahout.math.FunctionTest" time="0"/>
+  <testcase name="testIsLikeRightPlus[20]" classname="org.apache.mahout.math.FunctionTest" time="0"/>
+  <testcase name="testIsAssociative[20]" classname="org.apache.mahout.math.FunctionTest" time="0"/>
+  <testcase name="testIsDensifying[21]" classname="org.apache.mahout.math.FunctionTest" time="0"/>
+  <testcase name="testIsLikeLeftMult[21]" classname="org.apache.mahout.math.FunctionTest" time="0.001"/>
+  <testcase name="testIsCommutative[21]" classname="org.apache.mahout.math.FunctionTest" time="0"/>
+  <testcase name="testIsLikeRightMult[21]" classname="org.apache.mahout.math.FunctionTest" time="0"/>
+  <testcase name="testIsLikeRightPlus[21]" classname="org.apache.mahout.math.FunctionTest" time="0.001"/>
+  <testcase name="testIsAssociative[21]" classname="org.apache.mahout.math.FunctionTest" time="0"/>
+</testsuite>

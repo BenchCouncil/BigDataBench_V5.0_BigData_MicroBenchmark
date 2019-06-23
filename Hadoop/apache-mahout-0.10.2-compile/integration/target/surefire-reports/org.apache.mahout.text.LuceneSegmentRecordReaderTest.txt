@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.apache.mahout.text.LuceneSegmentRecordReaderTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.311 sec - in org.apache.mahout.text.LuceneSegmentRecordReaderTest

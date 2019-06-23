@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.mahout.math.VectorBinaryAggregateTest" time="1.357" tests="270" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="/home/gwl/jdk1.7.0_80/jre/lib/amd64"/>
+    <property name="java.vm.version" value="24.80-b11"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="/home/gwl/apache-mahout-distribution-0.10.2"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=":"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.country" value="HK"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="/home/gwl/apache-mahout-distribution-0.10.2"/>
+    <property name="java.runtime.version" value="1.7.0_80-b15"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="/home/gwl/jdk1.7.0_80/jre/lib/endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="/tmp"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="os.name" value="Linux"/>
+    <property name="classworlds.conf" value="/home/gwl/apache-maven-3.3.9/bin/m2.conf"/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.library.path" value="/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="51.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="3.13.0-24-generic"/>
+    <property name="user.home" value="/home/ubuntu15"/>
+    <property name="user.timezone" value="Asia/Hong_Kong"/>
+    <property name="java.awt.printerjob" value="sun.print.PSPrinterJob"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.specification.version" value="1.7"/>
+    <property name="user.name" value="ubuntu15"/>
+    <property name="java.class.path" value="/home/gwl/apache-maven-3.3.9/boot/plexus-classworlds-2.5.2.jar"/>
+    <property name="java.vm.specification.version" value="1.7"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="/home/gwl/jdk1.7.0_80/jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher install"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.7.0_80"/>
+    <property name="java.ext.dirs" value="/home/gwl/jdk1.7.0_80/jre/lib/ext:/usr/java/packages/lib/ext"/>
+    <property name="securerandom.source" value="file:/dev/./urandom"/>
+    <property name="sun.boot.class.path" value="/home/gwl/jdk1.7.0_80/jre/lib/resources.jar:/home/gwl/jdk1.7.0_80/jre/lib/rt.jar:/home/gwl/jdk1.7.0_80/jre/lib/sunrsasign.jar:/home/gwl/jdk1.7.0_80/jre/lib/jsse.jar:/home/gwl/jdk1.7.0_80/jre/lib/jce.jar:/home/gwl/jdk1.7.0_80/jre/lib/charsets.jar:/home/gwl/jdk1.7.0_80/jre/lib/jfr.jar:/home/gwl/jdk1.7.0_80/jre/classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="/home/gwl/apache-maven-3.3.9"/>
+    <property name="file.separator" value="/"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.cpu.isalist" value=""/>
+  </properties>
+  <testcase name="testSelf[0]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.037"/>
+  <testcase name="testSeparate[0]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.017"/>
+  <testcase name="testSelf[1]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.015"/>
+  <testcase name="testSeparate[1]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.012"/>
+  <testcase name="testSelf[2]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.012"/>
+  <testcase name="testSeparate[2]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.009"/>
+  <testcase name="testSelf[3]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.009"/>
+  <testcase name="testSeparate[3]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.008"/>
+  <testcase name="testSelf[4]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.013"/>
+  <testcase name="testSeparate[4]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.012"/>
+  <testcase name="testSelf[5]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.013"/>
+  <testcase name="testSeparate[5]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.009"/>
+  <testcase name="testSelf[6]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.01"/>
+  <testcase name="testSeparate[6]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.01"/>
+  <testcase name="testSelf[7]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.01"/>
+  <testcase name="testSeparate[7]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.011"/>
+  <testcase name="testSelf[8]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.009"/>
+  <testcase name="testSeparate[8]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.008"/>
+  <testcase name="testSelf[9]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.008"/>
+  <testcase name="testSeparate[9]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.007"/>
+  <testcase name="testSelf[10]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSeparate[10]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.003"/>
+  <testcase name="testSelf[11]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSeparate[11]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSelf[12]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSeparate[12]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSelf[13]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.007"/>
+  <testcase name="testSeparate[13]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.007"/>
+  <testcase name="testSelf[14]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.007"/>
+  <testcase name="testSeparate[14]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.008"/>
+  <testcase name="testSelf[15]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.008"/>
+  <testcase name="testSeparate[15]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.007"/>
+  <testcase name="testSelf[16]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.006"/>
+  <testcase name="testSeparate[16]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.006"/>
+  <testcase name="testSelf[17]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSeparate[17]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.012"/>
+  <testcase name="testSelf[18]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSeparate[18]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.005"/>
+  <testcase name="testSelf[19]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSeparate[19]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.005"/>
+  <testcase name="testSelf[20]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.005"/>
+  <testcase name="testSeparate[20]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.005"/>
+  <testcase name="testSelf[21]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.006"/>
+  <testcase name="testSeparate[21]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.006"/>
+  <testcase name="testSelf[22]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.007"/>
+  <testcase name="testSeparate[22]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.007"/>
+  <testcase name="testSelf[23]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.007"/>
+  <testcase name="testSeparate[23]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.009"/>
+  <testcase name="testSelf[24]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.005"/>
+  <testcase name="testSeparate[24]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.006"/>
+  <testcase name="testSelf[25]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.005"/>
+  <testcase name="testSeparate[25]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.006"/>
+  <testcase name="testSelf[26]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.005"/>
+  <testcase name="testSeparate[26]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSelf[27]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.005"/>
+  <testcase name="testSeparate[27]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSelf[28]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSeparate[28]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.005"/>
+  <testcase name="testSelf[29]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.005"/>
+  <testcase name="testSeparate[29]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.006"/>
+  <testcase name="testSelf[30]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.005"/>
+  <testcase name="testSeparate[30]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.005"/>
+  <testcase name="testSelf[31]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.007"/>
+  <testcase name="testSeparate[31]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.008"/>
+  <testcase name="testSelf[32]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSeparate[32]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.005"/>
+  <testcase name="testSelf[33]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSeparate[33]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.005"/>
+  <testcase name="testSelf[34]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSeparate[34]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSelf[35]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.003"/>
+  <testcase name="testSeparate[35]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSelf[36]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSeparate[36]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.005"/>
+  <testcase name="testSelf[37]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSeparate[37]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.003"/>
+  <testcase name="testSelf[38]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSeparate[38]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.003"/>
+  <testcase name="testSelf[39]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.005"/>
+  <testcase name="testSeparate[39]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSelf[40]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSeparate[40]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.003"/>
+  <testcase name="testSelf[41]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSeparate[41]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.003"/>
+  <testcase name="testSelf[42]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSeparate[42]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.003"/>
+  <testcase name="testSelf[43]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSeparate[43]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSelf[44]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSeparate[44]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.003"/>
+  <testcase name="testSelf[45]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSeparate[45]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.003"/>
+  <testcase name="testSelf[46]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSeparate[46]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSelf[47]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSeparate[47]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.005"/>
+  <testcase name="testSelf[48]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.005"/>
+  <testcase name="testSeparate[48]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.005"/>
+  <testcase name="testSelf[49]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.007"/>
+  <testcase name="testSeparate[49]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.007"/>
+  <testcase name="testSelf[50]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSeparate[50]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSelf[51]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.003"/>
+  <testcase name="testSeparate[51]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSelf[52]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSeparate[52]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.005"/>
+  <testcase name="testSelf[53]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.003"/>
+  <testcase name="testSeparate[53]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.005"/>
+  <testcase name="testSelf[54]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSeparate[54]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.005"/>
+  <testcase name="testSelf[55]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSeparate[55]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSelf[56]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.012"/>
+  <testcase name="testSeparate[56]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.006"/>
+  <testcase name="testSelf[57]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSeparate[57]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.005"/>
+  <testcase name="testSelf[58]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.005"/>
+  <testcase name="testSeparate[58]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.006"/>
+  <testcase name="testSelf[59]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSeparate[59]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSelf[60]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.003"/>
+  <testcase name="testSeparate[60]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSelf[61]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.003"/>
+  <testcase name="testSeparate[61]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.003"/>
+  <testcase name="testSelf[62]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.003"/>
+  <testcase name="testSeparate[62]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSelf[63]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSeparate[63]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.005"/>
+  <testcase name="testSelf[64]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSeparate[64]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.005"/>
+  <testcase name="testSelf[65]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSeparate[65]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.005"/>
+  <testcase name="testSelf[66]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.005"/>
+  <testcase name="testSeparate[66]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.005"/>
+  <testcase name="testSelf[67]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.005"/>
+  <testcase name="testSeparate[67]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.006"/>
+  <testcase name="testSelf[68]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.003"/>
+  <testcase name="testSeparate[68]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.003"/>
+  <testcase name="testSelf[69]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.003"/>
+  <testcase name="testSeparate[69]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSelf[70]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.003"/>
+  <testcase name="testSeparate[70]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.003"/>
+  <testcase name="testSelf[71]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.003"/>
+  <testcase name="testSeparate[71]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSelf[72]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSeparate[72]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSelf[73]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.003"/>
+  <testcase name="testSeparate[73]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSelf[74]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSeparate[74]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSelf[75]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSeparate[75]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.005"/>
+  <testcase name="testSelf[76]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.005"/>
+  <testcase name="testSeparate[76]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.005"/>
+  <testcase name="testSelf[77]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.002"/>
+  <testcase name="testSeparate[77]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSelf[78]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.003"/>
+  <testcase name="testSeparate[78]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.003"/>
+  <testcase name="testSelf[79]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.003"/>
+  <testcase name="testSeparate[79]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSelf[80]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.003"/>
+  <testcase name="testSeparate[80]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.003"/>
+  <testcase name="testSelf[81]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.003"/>
+  <testcase name="testSeparate[81]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSelf[82]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.003"/>
+  <testcase name="testSeparate[82]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.003"/>
+  <testcase name="testSelf[83]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.003"/>
+  <testcase name="testSeparate[83]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSelf[84]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.003"/>
+  <testcase name="testSeparate[84]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSelf[85]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSeparate[85]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.005"/>
+  <testcase name="testSelf[86]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.002"/>
+  <testcase name="testSeparate[86]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.003"/>
+  <testcase name="testSelf[87]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.002"/>
+  <testcase name="testSeparate[87]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.003"/>
+  <testcase name="testSelf[88]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.002"/>
+  <testcase name="testSeparate[88]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSelf[89]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.002"/>
+  <testcase name="testSeparate[89]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.003"/>
+  <testcase name="testSelf[90]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSeparate[90]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.005"/>
+  <testcase name="testSelf[91]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSeparate[91]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.006"/>
+  <testcase name="testSelf[92]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.005"/>
+  <testcase name="testSeparate[92]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.006"/>
+  <testcase name="testSelf[93]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.006"/>
+  <testcase name="testSeparate[93]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.005"/>
+  <testcase name="testSelf[94]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.007"/>
+  <testcase name="testSeparate[94]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.015"/>
+  <testcase name="testSelf[95]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.006"/>
+  <testcase name="testSeparate[95]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.006"/>
+  <testcase name="testSelf[96]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.005"/>
+  <testcase name="testSeparate[96]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.006"/>
+  <testcase name="testSelf[97]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.005"/>
+  <testcase name="testSeparate[97]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.005"/>
+  <testcase name="testSelf[98]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSeparate[98]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.005"/>
+  <testcase name="testSelf[99]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.005"/>
+  <testcase name="testSeparate[99]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.005"/>
+  <testcase name="testSelf[100]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSeparate[100]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.005"/>
+  <testcase name="testSelf[101]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.005"/>
+  <testcase name="testSeparate[101]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.006"/>
+  <testcase name="testSelf[102]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.005"/>
+  <testcase name="testSeparate[102]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.006"/>
+  <testcase name="testSelf[103]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.005"/>
+  <testcase name="testSeparate[103]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.007"/>
+  <testcase name="testSelf[104]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSeparate[104]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSelf[105]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.003"/>
+  <testcase name="testSeparate[105]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSelf[106]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSeparate[106]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.005"/>
+  <testcase name="testSelf[107]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.003"/>
+  <testcase name="testSeparate[107]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSelf[108]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.005"/>
+  <testcase name="testSeparate[108]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSelf[109]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.002"/>
+  <testcase name="testSeparate[109]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSelf[110]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.003"/>
+  <testcase name="testSeparate[110]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.003"/>
+  <testcase name="testSelf[111]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.002"/>
+  <testcase name="testSeparate[111]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSelf[112]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.006"/>
+  <testcase name="testSeparate[112]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.006"/>
+  <testcase name="testSelf[113]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSeparate[113]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.005"/>
+  <testcase name="testSelf[114]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSeparate[114]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSelf[115]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.003"/>
+  <testcase name="testSeparate[115]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSelf[116]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.003"/>
+  <testcase name="testSeparate[116]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.003"/>
+  <testcase name="testSelf[117]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.003"/>
+  <testcase name="testSeparate[117]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.005"/>
+  <testcase name="testSelf[118]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.003"/>
+  <testcase name="testSeparate[118]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.003"/>
+  <testcase name="testSelf[119]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.002"/>
+  <testcase name="testSeparate[119]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.003"/>
+  <testcase name="testSelf[120]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.003"/>
+  <testcase name="testSeparate[120]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.003"/>
+  <testcase name="testSelf[121]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.005"/>
+  <testcase name="testSeparate[121]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSelf[122]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.003"/>
+  <testcase name="testSeparate[122]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.003"/>
+  <testcase name="testSelf[123]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.003"/>
+  <testcase name="testSeparate[123]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSelf[124]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSeparate[124]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.003"/>
+  <testcase name="testSelf[125]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.003"/>
+  <testcase name="testSeparate[125]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.005"/>
+  <testcase name="testSelf[126]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.006"/>
+  <testcase name="testSeparate[126]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.005"/>
+  <testcase name="testSelf[127]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSeparate[127]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSelf[128]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.007"/>
+  <testcase name="testSeparate[128]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSelf[129]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSeparate[129]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.005"/>
+  <testcase name="testSelf[130]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.005"/>
+  <testcase name="testSeparate[130]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSelf[131]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.005"/>
+  <testcase name="testSeparate[131]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.005"/>
+  <testcase name="testSelf[132]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.006"/>
+  <testcase name="testSeparate[132]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSelf[133]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSeparate[133]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.005"/>
+  <testcase name="testSelf[134]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.004"/>
+  <testcase name="testSeparate[134]" classname="org.apache.mahout.math.VectorBinaryAggregateTest" time="0.005"/>
+</testsuite>
